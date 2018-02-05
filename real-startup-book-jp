@@ -1,0 +1,1449 @@
+
+
+
+
+
+
+
+
+
+リアルスタートアップブック
+
+
+
+
+ 
+コピーライト
+
+
+
+
+
+
+Version 0.3
+
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+これまで失敗して
+それを認めることができる
+度胸のある
+すべての人たちすべてに 
+著者による前書き
+「カナヅチをもつとすべてがクギにみえる」– 不明
+
+
+私の「リーンスタートアップ」との出会いでスモークテストのコンセプトを知りました。そのアイデアはエレガントで、ランディングページで価値を説明して顧客ニーズを測るというものでした。当然ながら自分ですぐに試しました。
+
+ショーン・エリスの「これが無かったらどれくらいガッカリ」アンケートも試した。
+
+コンシェルジュテスト、オズの魔法使い、ペーパープロトタイピング。全部試した。  深く考えることなく、とにかくやってみました。
+
+それしかわからなかったからです。
+
+私の知っている人がそれについてブログや本やスライドで書いていたから。
+
+今から考えれば「エアジョーダンをはけば素晴らしいバスケットボール選手になれる」と同じくらい間違った論理だったけど、その時はやってみた。”
+
+6年間リーンに生きて何を作るのに何が必要なのか気が付きはじめました。素晴らしい何か、不変な何か、優れた大工になるためにエアジョーダンは必要ではありませんでした。道具箱が必要で、その道具の使い方を知ることが必要でした。
+ 
+序章
+
+
+
+
+
+
+ 
+「リアルブック」とは?
+ジャズのジャムセッションで必ずある本があります。『リアルブック』です。
+まともなミュージシャンなら必ず持っています。
+大きくて手で書いた楽譜をコピーしたみたいに不格好にバインダーで無造作に束ねられています。
+それぞれのページはジャズのスタンダードです。マイルス・デイビスの”All Blues”、ジョン・マーサーの”Autumn Leaves”、ディジー・ガレスピーの” A Night in Tunisia”...フランク・ザッパの”Peaches in Regalia”みたいな変わった曲もあります。
+ほかの「フェイクブック」みたいに詳しい弾き方や指運びは説明していません。『リアルブック』にあるのは音符、リズム、コード、メロディーラインといった必要最低限のことだけです。ミュージシャンがジャズをジャズらしくするためのアドリブをする余地があるくらいの。1
+それは天国です。
+『リアルブック』は「この曲はどう弾く？」というシンプルな質問に答えています。
+ミュージシャンの仕事が音楽を演奏することだとしたら、スタートアップのプロダクトマネージャーの仕事は実験と調査です。私たちの仕事は想定に挑戦して、仮説を検証することです。
+私たちはまだ答えのない質問があり、その答えは現実世界の現実のユーザーが持っています。その答えを実験と調査から導き出します。
+1 もちろん、『リアルブック』が実際には違法だったことを後で知りました。いまでは合法に出版されています。
+ 
+この『スタートアップリアルブック』のゴールは「ビジネスモデルをどう学ぶか」というスタートアップのシンプルな質問に答えることです。
+自らのビジネスでわからない部分やスタートアップのビジネスモデルについての答えを導き出す実験と調査の方法があります。
+この本はどの方法が何を探すのに最も最適なのか、独自の状況、産業、国やビジネスモデルに合わせて調査するために最低限の情報を提供しています。
+過度に教義的ではなく、アレンジするのに適切な余白を残しています。
+この本はテキストではありません。この本はハウツー本でもありませんし「フェイクブック」でもありません。参考書です。
+取って置き、参照し、必要な時に手元に置きましょう。
+もっと大事なのはこの上にノートを書くこと。変えたい部分は変えること。何か間違えがあったら変更点realbook@trikro.comまで。提案があったら連絡してください。もっといい方法があったら教えてください。（日本語版はkazuya.nakamura@live.comまで）
+この本は継続的に改善して共有するためにクリエイティブコモンズのライセンスで公開されています。問題点を探して改善するためのご協力をお願いします。
+ 
+だれがこの本を読むべき?
+自分のビジネスモデルに大きな穴があり、どうすればその穴を埋めるのかわからない場合、この本はあなたのためにあります。わからないことはこんなことです。
+●	顧客はだれ？
+●	最も重要な機能は何？
+●	なんでユーザーはそんなことをするの？
+●	ユーザーはこれに本当に対価を支払う？
+この本は一部または全くわからないイノベーションプロジェクトを管理するのにも便利です。あなたの役職は：
+●	プロダクトマネージャー
+●	スタートアップの創業者
+●	企業内のイノベーションプロジェクトリーダー
+過去の経験
+以下のコンセプトの理解がある：
+●	リーンスタートアップ
+●	ユーザーエクスペリエンス
+●	人間中心デザイン／デザイン思考
+●	ビジネスモデルキャンバス
+知らなくても大丈夫ですが、知っていたらもっと理解が深まります。
+特に必要なのはビジネスモデルには見えない部分があり、それを見えるようにするには実際のユーザーで実験や調査をしなければいけないと理解していることです。
+イノベーションをスケールさせる
+この本は多くのイノベーションを管理する立場の人にも特に有効です。例えば：
+●	チーフ・イノベーション・オフィサー
+●	イノベーション担当役員
+●	アクセラレーターのマネージャー
+●	リーンスタートアップ／イノベーションコーチ
+ 
+もしこれらに当てはまるのであれば、この本はイノベーションやスタートアッププロジェクトにとってとても使いやすく簡単な参考書となるでしょう。そのほかにもスタートアップが持つ典型的な問題を診断するためにも使えます。
+これはクリエイティブコモンズで公開されているため、トレーニング資料として無償で利用することもできます。
+ビジネスモデル
+この本はビジネスモデルの要素に関する質問に答えるのに最適です。ビジネスモデルの要素とは顧客、価値、チャネル、関係や売上です。つまりプロダクトマーケットフィットに決定的に必要な要素です。
+パートナーやリソースといったほかのビジネスモデルの要素を調査するのにも使えますが、読者が独自に解釈をする必要があります。
+ステージと産業
+ここにある方法はスタートアップやこれまでとは違うモデルのビジネスを模索する大企業の事業開発チームが使うのに適しています。
+どの産業でも適応することはできますが、テクノロジー分野で蓄積された手法が多く含まれています。ほかの産業での事例が増えてくればここに掲載する予定です。realbook@trikro.com まで事例のご連絡をお願いします。
+注意：アカデミックと既存ビジネス
+この本は学校の環境で学ぶ生徒のためではありません。この本から学ぶには外に出て実際の世界で実際の顧客に対して活用する必要があります。もし先生がこの本をあなたに手渡したら、教室から飛び出して顧客と対話してください。
+この本はすでに既存のビジネスを運営している企業のためでもありません。ここにある手法のいくつかは既存のビジネスを最適化するのに有用かもしれませんが、そのために作られてはいません。伝統的なプロジェクト管理手法のほうがマッチしているかもしれません。
+継続的な改善
+将来の改善はこの本のフォーカスを広げる可能性があります。この本は生き物のように常にアップデートしていきます。
+ 
+この本の使い方
+この本を最初から最後までストレートに読まないでください。インデックスをまずよく読んで適切なページに進んでください。
+この本はステップ１、ステップ２、ステップ３のようなスタートアップガイドではありません。スタートアップはそのようにできません。
+この本を道具箱だと考えてください。
+道具箱は必要な時に必要なものが見つかるように整理されています。マーケットの需要を調べる時は「マーケット評価実験」のセクションがあります。MVPで評価すべき機能リストが増えすぎて優先順位をつけなければいけない時は「生成的プロダクトリサーチ」のセクションがあります。
+この本のインデックスはアルファベット順でも時系列でも存在論でもありません。インデックスは知る順番で整理されています。顧客のことを知ろうとしていますか？適切な価格を知ろうとしていますか？リテンションをどのように上げるか知ろうとしていますか？
+インデックスをよく読むことを強くお勧めします。そうしないとこの本の大きなメリットを見逃すことになります。
+自身のビジネスモデルで未知の部分に対するとき、まずは何を知らなければいけないのかを学ばなければいけません。それを知ることのゴールは何か？どのような質問をしなければいけないのか？
+何を知らなければいけないかがわかったら、インデックスを使って適切な調査や実験を探しましょう。それぞれの方法について読んで自分の環境やリソースに適した方法を決めましょう。
+方法についての各ページにはいくつかの見出しがあります：
+概要
+
+2，3行の簡潔な説明。
+期待できる答え
+
+その方法が答えを導き出してくれるであろう質問のリスト
+ 
+タグ
+
+この本を通じてナビゲーションとして使える単語のリスト。たとえば「B2B」（B2Bのビジネスモデルでよく使われる方法) や「質的リサーチ」 (その方法で使われるデータの種類)など。
+解説
+
+その実験や調査が実際に使われる際の詳しい解説：
+●	必要な時間
+●	実施方法
+●	結果の解釈の仕方
+●	正しくないデータによって結果が出ないよくあるバイアスや落とし穴
+●	実施した人からの助言
+事例
+
+その実験や調査を使った様々な事例のリンク
+参考
+
+参考となる情報リスト
+ 
+Contributors
+●	Andy Cars, Linkedin, Lean Ventures
+●	Austin Elford, Linkedin, Twitter
+●	Casey Sakima, Portfolio, Linkedin
+●	Dharanidhar Malladi, Linkedin
+●	Gian Tapinassi, ArtDigiland, Linkedin
+●	Gillian Julius Linkedin
+●	Hameed Haqparwar, Linkedin, @haqparwar
+●	Jan Kennedy, Academy for Corporate Entrepreneurship, @innovationmojo
+●	Jorge Castellote, Linkedin, Twitter
+●	Lino Jimenez, Linkedin
+●	Luke Szyrmer, LaunchTomorrow, @launchtomorrow
+●	Luuk Van Hees, Linkedin, Tippiq Labs
+●	Jason Koprowski, Effortless Growth, Linkedin
+●	Kenny Nguyen, TriKro LLC, Linkedin
+●	Nadya Paleyes, Linkedin, Red Button
+●	Phyo Pine, LinkedIn
+●	Rammohan Reddy, LeanMantra, Linkedin
+●	Sean K. Murphy, Linkedin, SKMurphy
+●	Thierry Dagaeff, Linkedin
+●	Tristan Kromer, TriKro LLC, Blog
+ 
+Update History
+●	Version 0.3 - Updated book’s formatting, added Customer Discovery Interviews and merged with Customer Discovery, added Secondary Market Research, added Concierge Test, added Net Promoter Score, added Appendices and Biases
+
+●	Version 0.2 - Updated Generative vs Evaluative (1.3), added Generative Market Research sections 1-3, added Evaluative Market Experiments sections 1-4, added Generative Product Research sections 1-3, added Evaluative Product Experiments sections 1-2, added Out of the Box sections 1-2
+
+●	Version 0.1 - Added Preface sections 1-3, added The Index sections 1-6
+ 
+インデックス
+
+
+
+
+
+
+
+“An index is a great leveler”
+– George Bernard Shaw
+ 
+何を学ぼうとしているのか？
+「もし課題を解決するのに一時間あったなら、55分を課題に使い、5分を解決方法に使う」- アルバート・アインシュタイン
+学校ではどれくらい理解ができたのか定期的にテストをします。地理を学び、歴史を学び、九九を暗記します。
+残念なことに暗記のスキルや公式で答えるやり方はスタートアップでは通用しません。新しいビジネスモデルを作り上げるとき、テストやクイズのための暗記は役に立ちません。期末試験で全く空白の紙が解答用紙として配られるようなものです。
+「テストはどこですか？」
+「目の前にあるよ」
+「正しい答えはあるんですか？」
+「ありますよ」
+「質問は何ですか？」
+「それを理解しないといけません」
+起業家（または社内起業家）として「正しい質問」を理解せずに、単に答えを推測することはできません。推測だけでプロダクトの完成品を作っても、マーケットは見向きもせず売り上げゼロで破産の罰を受けます。
+私たち起業家の仕事は最初に正しい質問をして、それから正しい答えを探すことです。
+
+何が正しい質問なのか？
+質問はビジネスモデルが持つ根本的な穴に光を当てるものでなければいけません。たとえば：
+ 
+●	顧客はだれ？
+●	彼らがしなければいけないことは何？（Jobs to get done）
+●	どのチャネルを使えば顧客にリーチできる？
+●	どの機能を最初にプロダクトに実装する？
+●	ソリューションは十分によいか？
+「正しい質問」を見つけることができれば、その解を見つける手助けをしてくれる方法をこの本から見出すことができるかもしれません。リソースや時間の制約もありますし、いくつかの方法はより簡単に実行できるかもしれません。
+もし「正しい質問」を見つける前にこの本にある方法を実行しても不可能とは言わないまでも、実験の結果の解釈はより困難なものとなります。
+例えば足底筋膜炎を治すことができる新しい靴を売るとしましょう。ランディングページ（スモークテストの一種）に価値訴求のメッセージと「今すぐ購入」ボタンを設置します。そして1000ドルを使ってGoogle Adwordsに「靴」をキーワードとして広告を載せます。そしてお金がチャランチャランと入ってくるのを待ちます…
+
+…がコンバージョンは0%でした。
+ここであきらめますか？それがランディングページのテスト結果です。このプロダクトには需要がない。でも、そもそも「足底筋膜炎」ってなんでしょう？
+その通り、それがこのサイトに訪れた人が持つ疑問です。
+ 
+テストの失敗は顧客が興味を持たなかったからでしょうか？それとも価値が理解できなかったからでしょうか？ それとも間違った流通経路を選んでしまったんでしょうか？
+この場合、「誰かこのプロダクトを必要とするか？」というのは正しい質問ではありませんでした。正しい質問は「顧客は足底筋膜炎を理解するか？」か「誰がこのプロダクトの顧客なのか？」ではなかったでしょうか。
+質問にフォーカスする
+正しい方法を探すことをシンプルにするため、二つの質問を用意しました：
+1.	あなたの知りたいのはマーケット？それともプロダクト？
+2.	あなたは仮説を検証したい？それともアイデアをクリアにしたい？
+この二つの質問を組み合わせることで2×2のマトリックスができます：
+たとえば、顧客に関する明確な仮説があるとして、プロダクトに対価を支払うだろうと考えているとします。その場合はスモークテストのような評価的なマーケットテストが有効です。
+ 
+ 
+顧客に関する明確なイメージがない場合はデータマイニングのような生成的マーケットリサーチが有効です。
+同様に、どのような機能が顧客の課題を解決するか明確な仮説がある場合、オズの魔法使いのような評価的なプロダクトテストが有効です。どんな機能が有効なソリューションとなるのか明確なアイデアがない場合はコンシェルジュプロダクトのような生成的プロダクトリサーチが役に立ちます。
+どのようなフレームワークも現実を過度にシンプルにしたものです。このインデックスは正しい方法に簡単に導いてくれますが、全く考えなくていいというわけではありません。
+質問のインデックス と方法のインデックスは質問のリストと対応する方法を見つけるのに役立ちます。しかし、まずプロダクトとマーケット、そして生成的と評価的の違いを見ていきましょう。
+ 
+マーケットとプロダクト
+私たちはマーケットやプロダクトについて知る必要はあるでしょうか？膨大なリストから行動ができるくらいの選択肢に絞るため、質問をマーケットに関するものとプロダクトに関するものに分けます。
+マーケット
+●	顧客はだれ？
+●	彼らの課題は何？
+●	どんなジョブをしなければいけない？(Jobs to be done)
+●	現在はどうやってそのジョブを実行している？
+●	すでにこの課題を解決するソリューションはある？
+●	この顧客セグメントはこのジョブを実行できるより良いソリューションに対価を払う？
+●	顧客セグメントは広すぎる？
+●	どのように顧客を見つけられる？
+●	この顧客セグメントはいくらなら払う？
+●	どのようにすればこの顧客セグメントは払う？
+●	この顧客セグメントを獲得するコストは？
+
+プロダクト
+
+●	どうやったらこの問題を解決できる？
+●	どのような形であるべき？
+●	このデザインはどれくらい重要？
+●	何が一番手っ取り早い解決策？
+●	何が必要最低限の機能？
+●	どうやって優先順位をつける？
+●	このソリューションで本当に問題解決する？
+●	みんな使ってる？
+●	どっちがより良いソリューション？
+●	どうやったら最適化できる？
+●	みんなは何が好き／嫌い？
+●	なんでこうするの？
+●	なんで潜在顧客はこれを買うの？
+●	なんで潜在顧客はこれを買わないの？
+ 
+
+この場合「マーケット」は顧客セグメントを指す要素です。これは正しい方法を選択するためにかなりシンプルにしたやり方です。
+例えばマーケットの質問は私たちが顧客セグメントにリーチするチャネルを含みます。テレビを持たない顧客セグメントにテレビを使った伝統的なブロードキャストアウトリーチを使うことはできません。
+「プロダクト」（またはサービス）は価値または価値を生み出す手段です。これには価値を生み出すリソースや活動、パートナーにコストなどが含まれます。
+価値はマーケットとプロダクトの間にあります。プロダクトは顧客に利用されなければ何の価値もありません。しかし、これも正しい方法を選択するためにかなりシンプルにしたやり方です。
+ビジネスモデル・キャンバスで「マーケット」の質問は顧客、チャネル、関係、売上などキャンバスの右側についてです。「プロダクト」の質問は価値と活動、リソース、パートナー、コストを含むキャンバスの左側です。
+どこからはじめるか？
+この本ははじめる場所を問いません。すでにプロダクトがあって顧客を探しているかもしれません。顧客のペインポイントがわかっていて、それを解決するソリューションを探しているかもしれません。しかし、迷ったら顧客からはじめましょう。
+顧客セグメントが変化した場合、プロダクトは顧客の変化に対応しなければいけません。しかし、プロダクトが変わっても顧客は単に違うプロダクトを使うだけです。人間の行動はなかなか変わらないことで知られています。
+ 
+生成的か検証的か
+クリアな仮説を検証したいのでしょうか？それともクリアな仮説を生み出したいのでしょうか？この判断をするためには何がクリアな仮説なのかを理解する必要があります。
+顧客は私たちのプロダクトを望んでいる
+この仮説はいくつかの理由で悪い仮説です。類語反復で検証する価値がありません。もしすでにそのプロダクトを使っているのであれば、すでに購入した（＝望んでいた）ことを意味するので、それはすでに良い兆候です。
+これはほぼ「紙は可燃性で、発火すれば燃える」と同じです。このような間違った仮説は多く見受けられます。もう少し微妙な例を見てみましょう:
+もし250人のロスアンゼルスの教師にマイノリティーの生徒にもっとリスペクトをもって接するように言えば、少なくとも50人はそうする
+最初の例よりは悪くないですが、良い実験を行う上で基本的な問題があります。もし無理に実験を行ったとしても不明瞭なデータを得られるか、データを正しく解釈できないでしょう。
+この場合、いくつかの点がクリアではありません：
+●	どの先生でしょうか？何人くらいのマイノリティーグループがいるクラスの先生でしょうか？このテストではどれくらいのマイノリティーグループがいれば適切なのでしょうか？
+●	先生にはどのように言えばいいのでしょうか？それぞれの先生に別の言い方をする？校長先生に言ってもらう？
+●	「リスペクト」とはどのような状態でしょうか？どのような行動が「もっとリスペクトをもって接する」ことになるのでしょうか？
+仮説を明確に定義しないと、私たちは校長先生は先生たちにいろんな形でお願いをしてしまうかもしれません。
+また、結果についても疑念が残ります。たとえば名前でなくMr付きの苗字で呼べば「リスペクト」になるのでしょうか、それとも皮肉なのでしょうか？
+クリアに定義された検証ができる仮説がないとき、実験とは言えず、それはよくて「生成的」なリサーチにしかなりません。その場合、ゴールは「どのような行動が先生がマイノリティーグループの生徒に対するリスペクトとなるか」を理解することになります。
+このようなゴールの場合、生徒に対するカスタマーディスカバリーインタビューが適切な方法となります。先生に対してあいまいな仮説の検証ではなく。生成的リサーチの結果はクリアで検証が可能な仮説です。その仮説をもって検証的実験を行うことができます。
+よい仮説を作るのは簡単ではありません。以下がいい仮説を作るためのチェックリストになります。
+シンプルで明快
+仮説はシンプルで明快でなくてはいけません。誰が読んでもコンテキストを理解でき、結果を明確に解釈することができます。
+
+もし250人のロスアンゼルスの教師にマイノリティーの生徒にもっとリスペクトをもって接するように言えば、少なくとも50人はそうする
+この場合、「リスペクト」に関して様々な解釈があります。誰かが「もっとリスペクトをもって接した」とするには、どのような行動が「リスペクト」を示すのかを明確にしなければいけません。
+“もし250人のロスアンゼルスの教師にマイノリティーの生徒にもっとリスペクトをもって接するように言えば、少なくとも50人は敬称を使うことでそれを示す。
+たしかに具体的になりましたが、すべての人が敬称の意味が分かるわけではありません。特別な言葉やジャーゴンは避けるべきです。
+もし250人のロスアンゼルスの教師にマイノリティーの生徒にもっとリスペクトをもって接するように言えば、少なくとも50人は名前ではなく苗字にMr/Msをつけて生徒をよぶようになる。
+測定できる
+私たちの顧客はチャリティーのために募金をする強い欲求がある
+この仮説は正しいかもしれませんが、観察することができません。テレパシーを使わない限り。.
+私たちの顧客はチャリティー二年に二回募金する
+この新しい仮説も多少問題があるものの観察は可能です。
+関係を説明している
+ダルトンハイスクールの50%の生徒は C またはそれより低い成績を取る生徒が一年に一クラス存在する。
+
+This again may be true and it is observable, but it doesn’t tell us anything about the cause of the low grades. A good hypothesis should allow us to change one thing and observe the   effect in another.
+“Students at Dalton High School that study less than four hours a week get a C or lower in at least one class per year.”
+There are still more issues, but the hypothesis must relate two or more variables to each other.
+Cause and Effect
+“During the summer, ice cream consumption increases and more people drown per
+day.”
+
+This is a true statement, but does not tell us how those two variables relate to one another. Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about all the drownings?
+
+“During the summer, people who eat ice cream will drown at a higher rate than people who do not eat ice cream.”
+
+This specifies a clear relationship and the causal direction of that relationship. Simply using an IF 	, THEN	sentence structure can help make sure cause and effect are apparent.
+
+“If we feed ice cream to people, then the average # of drownings per day will increase.”
+Achievable
+“If an astronaut in a stable orbit around a black hole extends one foot past the event horizon of a black hole, then they will be pulled in entirely.”
+There are many theoretical physicist who create  a  number  of  hypotheses  which  are  not testable now, but may be testable at some point in the future. While this black hole/astronaut hypothesis is theoretically testable, it is not testable today.
+Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested within the immediate future or within our current resources.
+[warning call out: Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step.]
+ 
+Falsifiable
+All of these conditions add up to a hypothesis being falsifiable. If a hypothesis cannot be proven incorrect, then it is not relevant to run a test on it.
+“There is an invisible, intangible tea cup floating between the Earth and Mars.”
+When it doubt, we can ask ourselves, “What evidence would prove this hypothesis incorrect?”
+If there is no amount of evidence that would prove our hypothesis is invalid, then either the hypothesis is flawed or we are very stubborn.
+Other Frameworks
+There are a number of frameworks and checklists for forming hypothesis, one of which is popular enough to comment on to avoid confusion:
+We believe <this capability> will result in <this outcome> and we will know we have succeeded when <we see a measurable signal>
+The entire sentence is not the hypothesis. Let’s break this into it’s parts:
+We believe...
+That section just confirms we think the hypothesis is correct. It is not part of the hypothesis and there are many situations where we may test a hypothesis that we believe is incorrect.
+...<this capability> will result in <this outcome>...
+That is the hypothesis.
+...we will know we have succeeded when <we see a measurable signal>
+That is the data we will collect including any information about sample size, margin of error, success conditions, or fail criteria.
+ 
+Hypothesis Checklist
+❑	Is it simple and unambiguous?
+❑	Is it measurable?
+❑	Does it describe a relationship between two things?
+❑	Is the cause and effect relationship clear?
+❑	Is it achievable?
+❑	Can there any evidence that would convince us the hypothesis is invalid?
+ 
+Index of Questions
+
+
+
+
+	Market	Product
+
+
+Generative	Who is our customer? What are their pains?
+What job needs to be done?
+
+Is our customer segment too broad?
+
+How do we find them?	How can we solve this problem? What form should this take?
+How important is the design? What’s the quickest solution? What is the minimum feature set? How should we prioritize?
+
+
+Evaluative	Are they really willing to pay? How much will they pay?
+How do we convince them to buy? How much will it cost to sell?
+Can we scale marketing?	Is this solution working? Are people using it?
+Which  solution  is  better? How should we optimize this? What do people like / dislike? Why do they do that?
+ 
+Index of Methods
+
+
+
+	Market	Product
+
+
+Generative	Customer Discovery Interviews Contextual inquiry / ethnography Data mining
+Focus groups* Surveys* (open ended)	Solution interview
+
+Contextual inquiry / ethnography Demo pitch
+Concierge test / Consulting Competitor Usability
+Picnic in the Graveyard
+
+	5 second tests	Paper prototypes
+	Comprehension	Clickable prototypes
+	Conjoint Analysis	Usability
+	Data mining / market research	Hallway
+	Surveys* (closed)	Live
+
+Evaluative	Smoke tests
+(e.g. Video, Landing page, Sales pitch, Pre-sales, Flyers, Pocket test, Event, Fake door, High bar)	Remote Wizard of Oz
+Takeaway
+		Functioning products
+		Analytics / Dashboards
+		Surveys*
+(e.g. Net Promoter Score, Product/Market Fit Survey)
+ 
+Tags & Other Frameworks
+
+There are many great methods, books and frameworks out there on how to identify and prioritize risky assumptions, hypotheses, and questions. This index will work in conjunction with any of them through the use of tags.
+All the methods are tagged so as to be easily searchable depending on any other   frameworks we might use. This includes simple tags such as qualitative or quantitative used to denote the type of information that the method produces.
+It also includes tags related to the type of business model, such as:
+●	B2B - For Business-to-Business
+●	B2C - For Business-to-Consumer
+●	B2G - For Business-to-Government
+●	2-Sided Market - For a business with buyers and sellers.
+Using these tags to navigate the methods is not as simple as using the Index and may result   in a large selection of methods not entirely suited to the learning goal, but can be helpful to further narrow down the methods, so we’ve included them.
+Using the Business Model Canvas
+The Business Model Canvas is a very popular framework that identifies 9 basic building blocks of any business model and asks us to make assumptions as to what our business will be. Those blocks are:
+
+ 
+Based on our completed canvas, we choose the area of greatest risk to our success. Sometimes this is the Customer segment, but in the case of an existing market it may be the Value Proposition, Channels, or even Key Partners.
+Each method in this book tagged with these blocks. If we can identify the greatest risk to our business model via the Business Model Canvas, we can search the tags for a complete list      of experimental methods relating to that building block.
+For example, if the Customer is the biggest risk to our customer segment, then we are asking “Who is our customer?” or “Is this our correct customer segment?”. Based on that, there are several tools available to learn more about our customer, including:
+●	Customer Discovery Interviews
+●	Ethnography
+●	Data Mining
+●	Surveys (close ended)
+●	Focus Groups
+This won’t differentiate between Generative Research and Evaluative Experiments, so you’ll still need to take that extra step.
+ 
+Generative	Market	Research
+
+
+
+
+
+
+
+
+
+“Advertisements may be evaluated scientifically; they cannot be created scientifically.”
+– Leo Bogart
+ 
+Customer Discovery Interviews
+ 
+In Brief
+Interviewing potential customers to gain insights about their perspective, pain points, purchasing habits, and so forth. Interviews also generative empathy between the customer and the entrepreneur to better aid the design and ideation process. The best interviews help narrow down the target market and provide a deep understanding of what causes a market need and the underlying psychology of the customer.
+Helps Answer
+●	Who is our customer?
+●	What are their pains?
+●	Where can we find our customer?
+Tags
+●	B2C
+●	B2B
+●	Qualitative
+●	Customer
+●	Channel
+ 
+Description
+Time Commitment & Resources
+Typical rounds of customer discovery interviews require at least 5 separate interviews with individual customers but some entrepreneurs advocate as many as 100 before drawing a conclusion.
+
+Time commitment can be as little as 15 minutes per interview for consumer products to 2 hour conversations for B2B sales.
+
+The most significant investment of time can be in recruiting customers to interview which can again vary from a 5 minute walk to the local coffeeshop to a lengthy cold outreach program          via LinkedIn in the case of an entrepreneur with no market access into  a  highly  specialized vertical.
+Costs are typically zero or very low. In many cases, interview subjects are offered a gift certificate for their time which can be anywhere from $5 USD to $50 USD.
+How To
+1.	Plan the Interview
+a.	Define learning goal for the interviews
+b.	Define key assumptions about the customer persona
+c.	Create a screener survey of simple questions that will identify if the potential interviewee matches your target customer persona. Here’s a nice article on screener questions from Alexander Cowan.
+d.	Make an interview guide (not a write-and-strictly-follow script). If you don’t know where to start, check out some questions from Justin Wilcox or Alexander Cowan.
+Something like this:
+e.	Prepare a handy template to put your notes in afterwards or check on the tools to record your interview (check first legal restrictions that may apply to recordings);
+f.	Prepare any thank you gifts, e.g. Gift cards
+2.	Conduct the Interview
+a.	Frame -- Summarize purpose of interview with the customer.
+ 
+b.	Qualify -- Ask a screener question to determine if the customer is relevant to your customer persona.
+c.	Open -- Warm up questions, get the customer comfortable talking.
+d.	Listen -- Let the customer talk and follow-up with “what” and “how” related questions.
+e.	Close -- Wrap up interview, ask for referrals or (if applicable) follow-up interview.
+3.	Retrospect the Interview
+a.	Make notes promptly, sometimes video or audio recording can be a great option.
+Interpreting Results
+Are you able to listen and record data based on the following?
+●	Job - What activities are making the customer run into the problem?
+●	Obstacle - What is preventing the customer from solving their problem?
+●	Goal - If they solve their problem, then 	?
+●	Current Solution - How are they solving their problem?
+●	Decision Trigger - Were there pivotal moments where the customer has made key decisions about a problem?
+●	Interest Trigger - Which questions did the customer express interest in?
+●	Persons - Are there any other people involved with the problem or solution?
+●	Emotions - Is there anything specific that causes the customer to express different emotions?
+●	Measurement - How is the customer measuring the cost of their problem?
+Potential Biases
+●	Confirmation Bias: The interviewer can be prompted to sell his/her vision in case the interviewees vision differs drastically. The interviewee is tempted in his/her turn to adjust answers to the interviewer’s expectations due to personal sympathy.
+●	Order Bias Sometimes the order in which you ask questions can affect the answers you get. So try to run questions in different order in different interviews.
+Field Tips
+●	“Ask about the past. Observe the present. Forget about the future.” - @TriKro
+●	“Discovery Interviews - Focus on customer pain points and how they have tried to solve/fix them.” - @kennynguyenus
+●	“1st rule of validating your idea: Do not talk about your idea.” - @CustomerDevLabs
+●	“The harder customers are to interview, the harder they’ll be to monetize” -
+@CustomerDevLabs
+●	“It's always handy to shut up for 60 seconds and let the interviewee talk.” -
+@red_button_team
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+ 
+Case Studies
+●	Case study submitted anonymously via Lean Startup Circle Discussion thread
+●	How I Pivoted Product Strategy and Grew SaaS Deal Size by 10x
+●	How FindTactic validated hypothesis with customer discovery interviews
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	The Mom Test by Rob Fitzpatrick
+●	The Customer Discovery Handbook by Alexander Cowan
+●	How I Interview Customers by Justin Wilcox
+●	What are your favorite methods for doing problem interviews during Customer Discovery? by Quora
+●	26 Resources to Help You Master Customer Development Interviews by Kissmetrics
+●	Bad customer development questions and how to avoid my mistakes by Kevin Dewalt
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Data Mining
+
+
+
+In Brief
+Data mining uses statistics from large amounts of data to learn about target markets and customer behaviors. Data mining can make use of data warehouses or big data.
+Helps Answer
+●	Who is our customer?
+●	What are their preferences?
+●	How do they rank planned feature sets?
+Tags
+●	B2C
+●	B2B
+●	Customer
+●	Quantitative
+ 
+Description
+Data mining can start with a result from a few questionnaires. However, it is more effective to use a large dataset. Identifying the source information (where you get the data) and  extracting the key values (how you pick the data points) are two important aspects in getting the quality results.
+
+Data mining is best used for pattern discovery in customer perceptions and behaviors. It is useful in understanding your customers and/or your target market.
+
+For example, by using email campaigns and gathering the results, you can identify the profile of potential buyers or customers. This data point can help in your customer acquisition  efforts.
+
+By sending out customer satisfaction questionnaires or feedbacks, you can gather customer information. Alternatively, you can also track customer behaviors or mouse clicks on your websites. By combining these two data points, you can determine customer behavioral links between reported satisfaction and actual usage. This can identify key drivers for customer loyalty and churn.
+Time Commitment
+Depending on the amount of data that you need to crunch and data points that you want to discover, it will take 2-3 hours to a few weeks. You should pick one or two most important data points to start the learning process.
+How to
+You can either acquire outside (industry or market) data or distill your own (customer or product) data. Once you identify the area that you want to test:
+1.	Acquire data (integrate from various sources, if required)
+2.	Identify data points (determine which data or information is relevant to the research)
+3.	Transform and extract data (many tools to choose from business intelligent tools to database software with built-in reporting tools)
+4.	Recognize and search for patterns
+5.	Draw conclusions or refine the process by starting at step 2 (or sometimes even start back from step 1 to acquire better data).
+Interpreting Results
+In data mining, data matters but perspective matters more. There is a saying “Garbage In, Garbage Out.” But as human beings, we tend to see what we want to see and draw conclusions based on our own biases.
+
+To counter these biases, you can:
+1.	Get outside help or another pair of eyes to help interpret the data
+ 
+2.	Get two data points that are counter to each other (in research methodology, that will be called the Control Group and Experimental Group)
+
+Potential Biases
+●	Confirmation Bias
+●	False Positives
+●	Ignorance of Black Swans (rare and unprecedented events that can dramatically change or determine the future outcome)
+Field Tips
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+Case Studies
+●	Data mining answers questions for startup businesses in Northwest Colorado
+●	Jaeger uses data mining to reduce losses from crime and waste
+●	MobileMiner: A real world case study of data mining in mobile communication
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+
+References
+●	Data mining knowledge discovery
+●	Everything You Wanted to Know About Data Mining but Were Afraid to Ask - The Atlantic
+●	SPSS. (2005). Data mining tips
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Contextual Inquiry
+
+
+
+In Brief
+
+
+We’re not done yet!
+
+Tweet us and we’ll write this chapter:
+
+Hey, @realstartupbook, please write the chapter on Contextual Inquiry
+ 
+Evaluative	Market Experiments
+
+
+
+“Life is an experiment in which you may fail or succeed.
+Explore more, expect least.”
+– Santosh Kalwar
+ 
+Secondary Market Research
+
+
+
+
+In Brief
+Secondary Market Research gathers and interprets available information about the target market such as published reports, newspaper articles, or academic journals. This method is used to figure out the size of the market or customer segment, pricing, and possible ways for the market to evolve. Secondary Market Research, also referred to as “Desk Research”, or “Market Study,” is always from 3rd party sources and there is no direct customer contact.
+Helps Answer
+●	How much would our customers pay (what should be the price of our product)?
+●	What is the size of the market (how many customers would be using our product, how many would be paying customers)?
+●	How much would it cost to sell (what are the marketing channels and their exploitation costs)?
+Tags
+●	B2C
+●	B2B (studies of industry sectors)
+●	Quantitative (but simple figures)
+●	Marketing Channels
+●	Segments
+ 
+Description
+This method does not refer to primary research such as Customer Discovery Interviews,  Focus Groups, Surveys, and so forth. This form of Market Research is commonly referenced  as Secondary Research, that is “simply the act of seeking out existing research and data.”
+
+As the data from secondary research cannot be easily verified and may come from a variety of sources, it is theoretical rather than experimental. Some would consider the data qualitative rather than quantitative because the researcher must factor in the quality of the data source to any conclusions.
+
+The goal of Secondary Market Research is to use existing information to derive and improve your research strategy prior to any first person research. Often, existing market research can help determine rough market sizes and determine if first person research is worth the effort. With existing markets, a great amount of information can be found online or purchased from market research consultants.
+
+Secondary Market Research can be performed for any market but is most often performed for companies targeting existing markets. For startups creating new markets, typically there is no information available.
+
+We distinguish it from Data Mining, which is about exploiting big data sets (existing or generated by yourselves) which are numerical in nature so that they can be automatically processed and plotted. We also distinguish it from Picnic in the Graveyard, which is about regarding existing or deceased products in the market rather than the market itself.
+
+A first step is to find the relevant reports. Another step is to analyse them in a way that allows you to learn something on your product or idea.
+
+We can distinguish two directions of research. In “Market Status” research, you look at:
+
+●	User Behaviors: How often users have to use similar product, in which circumstances (not to confound with user behaviors regarding specific products which is covered by the Picnic in the Graveyard method).
+●	Marketing: What are the typical channels used? What are the costs of opening and maintaining such channels?
+●	Current Technology: Benchmark technology to understand what kind of standards have been set regarding speed, accessibility, etc..
+
+Identifying relevant reports will help derive target population size, prices and costs, hence, your revenue.
+ 
+In “Trend Research” you look at:
+
+●	User Behaviors: What new user behaviors are emerging?
+●	Marketing: What new channels start being used in this area?
+●	Technology: What coming technology may disrupt the market and our own approach?
+
+This helps deriving the possible evolution of your revenue and avoid pitfalls, or even give new ideas (as a Generative Method then).
+
+A typical use of Market Research is to develop a first idea of the target population itself. For instance, you may want to know if your product would rather be used by teenagers or by young adults. Imagine your product is a Facebook app. There are numerous reports about growth of distinct Facebook population segments and their respective habits; hence you can find if your type of product can meet young or older facebook users, and you can also see if this segment is growing or diminishing.
+
+Time Commitment
+When performed for a particular occasion (in order to answer  a  specific  question  about  a market size for instance or in order to get a first big picture at the beginning of the project), it  may take from 1 to 3 days, depending on the difficulty to gather relevant information and of       the abundance and thus filtering of obtained information.
+How To
+You will find information and existing surveys out of libraries, professionals associations, or business groups (you, your friends or your employees may be members of various engineers and/or trade associations -- Use It!). You can find information in professional fairs. You may also look for general information in the area you are targeting. For instance imagine you have a product for sailing boats; then, you can find a lot of publications on sailing. This is a good way to get insight on user behaviors and especially on trends. But you have to sort out this abundant literature.
+
+Governments provide statistical information on the population that can be quite detailed. For instance the EU publishes information on various segments, by gender and age; you can find data about household income and about some general practices, e.g. the use of public transportation, the expenditures in health system, etc.
+
+In order to get information that is relevant to your specific questioning, i.e. to the current status of your idea/product development, you have to be specific. For instance if you want to launch a service that enforces some privacy when publishing images on the Internet, you   have to look beyond the population of people that publish images on the Internet (which is extremely huge). You have to figure out who is interested in privacy, who takes it seriously;
+ 
+and this is not necessarily just a subset of the first population because there can be people who do not currently publish any image just because they fear some privacy issues.
+
+To be specific, you have to be smart or even crafty. For instance you may exploit annual reports from corporates which may include interesting facts about their own target segment, embedded within the description of how their products are doing. Another trick is to use some tools that are primarily made for other purposes. For instance, by trying to promote something on Facebook (a post, a page, or an app), you can define an ad campaign; then, Facebook provides you with tools to target your population (gender, age, device - iPhone or Android - and interests), and then it displays information about the potentially reached population which in turn gives you an idea of its size. You do not need to actually launch the campaign and pay for this.
+
+Beyond the search on the Web, information can be seeked directly by asking some organizations. There are the statistical offices. Public and nonprofit organisations may also be willing to share data, like hospitals, transportations systems, etc.
+
+Research into competitors is also a source of information. Not just the competitor product,  but also his users, marketing channels, prices and costs (or producing methods). Here again,    it can be quite a Generative method as well as an Evaluative one, for instance in indicating how you could, and when you should, differentiate your product.
+Interpreting Results
+Trend analysis and the derivation of the evolution of the market size and related revenue may be quite extrapolative. You may resort to complex theories and skills such as Behavioral Economics Models. However, we want to keep it simple here and let the most space for   actual experiments. Hence, you should use results in order to get a first idea of the market,    to detect and qualify niches, and have a broad idea if the market is worth investing a first and lean effort (remember you are lean and your goal is not to decide if the revenue is 5 years is proving once for all that your investment of 10 millions now is a good idea!). Qualitative  results are used to stay smart and aware, to avoid missing a massive fact like a disruptive trends (for instance when you want to launch a camera service to capture racers while
+self-piloted tracking drones are emerging…).
+Mainly, use results to derive your own surveys and data/learning generation.
+
+Besides, results may be useful to talk to investors who are still requiring more traditional business plans and market research-like homeworks. To some extent here we can consider being more extrapolative in the interpretation of the results.
+To counter biases:
+●	Target specificity of your business rather than data for the generic domain..
+●	Take into account conversion mechanisms.
+●	Take into account scale, niche factors, and regionality.
+ 
+Potential Biases
+False positive will often be due to a lack of specificity in your research to accurately    represent your own business. For instance, it is easy to get huge numbers for potential users of a image publication app, while the specificity of the service you have in mind (e.g. to protect privacy or to enforce copyrights) will drastically decrease the numbers.
+
+False positive are also due to the scale of markets that are described by the survey you use. Most often, surveys describe wide international environments while you will tackle regional markets, or niches inside this market. The mechanisms that result in the described market may be different at your own scale.
+
+Confirmation biases are often obtained by suddenly importing an unfounded ratio in your population estimate that actually make the result of the whole exercise fanciful. Indeed, you have to consider the size of the population you will actually acquire out of the target population which depends on the competition (including indirect solutions) and on your marketing channels. If you omit the conversion rate, or use a too whimsical conversion rate, your results will be all too optimistic. One of the goal of Market Researches by the way is to try to get a documented and realistic conversion rate. So it is important not to just figure out the size of a population having a given problem, but also to understand what part of this population is typically following such or such marketing channel, and what part will do so in the future.
+Field Tips
+●	“When looking at available market surveys, take into account your product specificity” @tdagaeff
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+Case Studies
+●	Secondary Market Research versus Primary Market Research
+●	Example: Association Providing Links for Business in a Specific Area - Queensland, Australia
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	Marketing Donut, General Description of Market Research
+●	Market Research Methods, Market Research vs. Direct Research
+●	Know This, Type of Research Types by Decision Types You Have to Take
+●	Entrepreneurship.org, Secondary Market Research Resources
+●	SBA.gov, Free Sources: Market Data and How to Use Data for Business Planning
+●	Census.gov, US Census Historical Data
+●	European Commission, Consumer Market Studies
+ 
+●	US Commercial Services, Market Research Library
+●	Cornell University, How Can I Find Market Research Data
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Comprehension Test
+
+In Brief
+A Comprehension Test will evaluate whether the customer understands the marketing message explaining the value proposition. This eliminates a possible false negative bias on smoke tests where the customer indicates they do not want the value proposition when they actually do not understand it.
+Helps Answer
+●	Does the customer understand the value proposition?
+●	How could we explain the value proposition better?
+ 
+Tags
+●	Quantitative
+●	Qualitative
+●	Value Proposition
+●	Smoke Test
+Description
+Time Commitment and Resources Required
+For B2C, it can take 1-2 hours offline or 24 hours online. For B2B, participant recruitment times can vary widely. 10-20 participants.
+How To
+1.	Write out value proposition in 1-3 sentences.
+2.	Show the value proposition to a participant for a few moments, then remove it.
+3.	Ask them to explain the value proposition in their own words from memory.
+
+Interpreting Results
+If the participant’s explanation is roughly comparable to our own, we count that as a positive result. If not, then it’s a negative. For this sort of test, we generally want a sample size of about 20 people and a positive conversion of about 80%.
+The conversion has to be very high because regardless of what our value proposition is, people should understand it.
+Take note: if many of the participants use identical language to explain the value proposition back, it should be considered as possible alternative marketing messages.
+Potential Biases
+●	Confirmation Bias
+○	Overly enthusiastic entrepreneurs will sometimes over explain, correct, or nonverbally prompt the participant with the correct answer.
+●	Invalid Target Audience
+○	Participants do not need to be the target customers, but they must have the same level of language & vocabulary as the target customer.
+■	e.g. A junior marketing manager can be used instead of a Chief Marketing Officer
+●	False Negative
+○	When using online surveys such as FiveSecondTest, the distractions of an online can often result in a higher than normal failure rate.
+ 
+Field Tips
+●	“Run a comprehension test before a landing page test or you won’t understand why it doesn’t work.” @TriKro
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+
+Case Studies
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	Tristan Kromer - Comprehension vs. Commitment
+●	Pearson - Technical Report: Cognitive Labs
+ 
+Smoke Test
+In Brief
+A smoke test is an experiment designed to test market demand for a specific value proposition. This test is often conducted before there is any ability to deliver the value proposition. The value proposition is presented to the customer in some way in exchange for any form of payment that would indicate true market interest. Payment expected from the customer may include money, time, attention, or data such as an email address.
+Helps Answer
+●	Does this specific customer segment want this specific value proposition?
+Tags
+●	B2C
+●	B2B
+●	Quantitative
+●	Value Proposition
+ 
+Description
+This is a general description for smoke tests as a category, for specific instances, please see individual sections:
+●	Landing page
+●	Direct sales
+●	Flyers
+●	Pocket
+●	Video
+●	Pre-sales
+●	Event
+●	High Bar
+Time Commitment and Resources
+Time commitment varies depending on market access and desired sample size. For   consumer apps using a direct sales smoke test, tests can be done in hours. For enterprise   B2B sales, smoke tests may take weeks or months. Typical landing pages tests usually take    a week to gather a sufficient sample size to interpret the first results.
+How To
+1.	Present the customer with a value proposition
+○	The value proposition can be in any format including a landing page, sales pitch, video, or even a flyer handed out on the street.
+2.	Ask the customer for payment in exchange for that value proposition.
+○	The payment can be of any form including money, time commitment (e.g. Get access in exchange for a one hour interview.), or data (e.g. email address or detailed personal information)
+3.	Measure the conversion rate of unique customers who are shown the value proposition to those that give payment.
+Interpreting Results
+Results can be difficult to interpret because of the high level of optimization that can be done with the form factor of the value proposition. Some landing pages can be optimized to  achieve a 40% conversion rate without having a clear and understandable value proposition.
+The criteria for success or failure of the value proposition should be set beforehand  according to the criteria of the business model. For consumer web products which compete for user attention, payment of an email address at 20% conversion may be sufficient to   justify additional investment in building the value proposition.
+For enterprise hardware products, up front payment of tens of thousands of dollars by a single customer may be required to justify creating a first run prototype as a customer solution.
+ 
+Success or failure criteria also need to account for the ability of the marketing channel to deliver a highly targeted customer segment. High quality channels with the right value proposition can deliver conversion rates >80% while low quality channels to an undifferentiated audience might result in conversion rates <1%.
+Potential Biases
+●	False Positive
+○	When low forms of payment are requested, e.g. an email address, conversion rates may be unrealistically high and are often misinterpreted.
+●	False Negative
+○	When the value proposition is shown to customers outside the target market, conversion rates drop and show a false negative. Lack of customer segmentation or a poorly segmented channel are usually the cause of this.
+○	Similarly, when the value proposition is not understandable to the customer, low conversion rates can occur. The results are sometime misinterpreted. (See comprehension testing.)
+Field Tips
+●	“Run a comprehension test before a smoke test or you won’t understand why it doesn’t work.” @TriKro
+●	“For smoke tests, set a fail condition based on analog businesses or business model demands.” @TriKro
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+Case Studies
+●	LOIs as Payment
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	Wikipedia - Smoke Testing (Lean Startup)
+●	Ramli John - A Landing Page is Not a Minimum Viable Product
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Conjoint Analysis
+
+In Brief
+A complex survey method where customers choose between product offerings that have different attributes such as price, screen size, or weight. Statistical analysis is then used to reveal the relative value of each attribute and predict the value of each possible combination of features.
+Helps Answer
+●	Does a particular new feature have any value in the eyes of the customer?
+●	Which product attributes are more/less important to the customer?
+●	What dollar value can we be assigned with each feature?
+●	Which features should we build next?
+Tags
+●	Quantitative
+●	Pricing
+●	Revenue
+●	Value Proposition
+Description
+Time Commitment and Resources
+1-2	hours offline for B2C or 24 hours online to gather responses. For B2B, participant recruitment times can vary widely. Analysis of the data can be very rapid with off the shelf
+ 
+software for analyzing less than 10 attributes. For analyzing dozens of factors the expertise and software required can take several weeks and human analysis.
+How To
+1.	Create a list of the top 3-5 product attributes you want to rank based on deep consumer understanding gained from prior experience and research.
+2.	No hard & fast rule but a good guideline is: Sample Size = [ (Total # of levels for all attributes) - (Number of attributes + 1) ] x 10 -- ref
+3.	Use software program to mix attributes into new product offerings
+4.	Show participants selected product offerings side by side and have them choose which one they would prefer (see example below from Pragmatic Marketing article)
+5.	Use statistical analysis software (or consultant / service) to analyze the results and compute a relative value ranking for each stand-alone attribute
+6.	Output formula revealing the “ideal” product based upon optimized mix of attributes.
+
+
+Interpreting Results
+
+Conjoint analysis can be complex and, depending on the tools and exact statistical method employed, the results from the analysis be be extremely difficult to understand as raw statistical data:
+ 
+(XLStat Demo Screenshot)
+
+Other methods of displaying the results can be more straightforward, but lack details:
+
+(Relative Parts-Worth Sensitivity Analysis)
+
+ 
+(Qualtrics Conjoint Types)
+
+What matters most is:
+1.	The relative importance of each attribute compared with the others
+2.	The formula that allows you to predict the relative preferences of any kind of mix
+3.	Elasticity of demand for pricing simulations (presuming that price was an attribute that was tested)
+
+Conjoint analysis is most often used in existing markets where the product attributes are generally known by the customer. When brand new attributes are introduced, customers may not initially understand them and therefore may not be able to accurately include the potential value of those attributes in their choices, producing a false negative of sorts.
+
+For this reason, generative market research methods are generally used before conjoint analysis to ensure that the attributes being tested are the correct one.
+
+The method also tends to be extensive and requires a high level of expertise to design. Early stage innovation projects therefore rarely use this method.
+ 
+Potential Biases
+●	Confirmation Bias: If administering the surveys face-to-face, overly enthusiastic entrepreneurs will sometimes over explain, correct, or nonverbally prompt the participant with the desired answer.
+●	Invalid Target Audience: Key to the success of conjoint analysis is knowing your audience well enough to be able to create products with useful mix of attributes to begin with.
+○	Conjoint analysis works best for products and services that rely more on logical comparison and less on emotion or impulse.
+●	Homogenous Market:
+○	Boiling market segments down to a series of equations and values has the drawback of treating every member of that segment identically. This is can often be reasonable within the specific price range studied but outside of these ranges, the mix of desirable attributes can change quite dramatically as customers enter and leave the market.
+●	Indication of Price Sensitivity NOT Exact Pricing
+○	Conjoint analysis is great for providing an indication about which variables and ranges influence pricing but a separate pricing and elasticity of demand   analysis should be performed separately to really nail this down.
+Case Studies
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+References
+●	MIT Sloan Courseware - Note on Conjoint Analysis by John R. Huaser
+●	Chris Chapman - 9 Things Clients Get Wrong About Conjoint Analysis
+●	Brett Jarvis - Conjoint Analysis 101
+●	Things You Need to Know About Conjoint Analysis
+●	Sawtooth Software - Interpreting the Results of Conjoint Analysis
+●	Quirks - Conjoint Analysis in Pharmaceutical Marketing Research
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+Conjoint Software Resources
+●	Conjoint Survey Design Tool, Harvard 2014 (Free)
+●	XLSTAT-Conjoint ($50 Student, $275 private)
+●	Conjoint Analysis in Excel (Free)
+●	Choosing By Advantage ($30/mo, similar to CA)
+●	Survey Gizmo ($95/mo, free 7-day trial)
+●	1000minds.com ($20,000 for enterprise, free for students)
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Preto- & Prototyping
+
+
+
+In Brief
+
+
+We’re not done yet!
+
+Tweet us and we’ll write this chapter:
+
+Hey, @realstartupbook, please write the chapter on Preto- & Prototyping
+ 
+Generative	Product Research
+
+
+
+
+
+
+“Research is formalized curiosity.
+It is poking and prying with a purpose.”
+– Zora Neale Hurston
+ 
+Concierge Test
+In Brief
+Concierge is a technique to test the solution of a customer problem by manually performing tasks as a service. Typically it is inefficient in terms of cost effectiveness, but can provide detailed information about how a solution can be created and what minimum viable feature set should be included in an automated and optimized product.
+Helps Answer
+●	Does the solution solve a real customer problem?
+●	How can the problem be solved?
+●	What is the minimum feature set required to implement a solution?
+●	What are the greatest problems in effecting a solution for the customer?
+Tags
+●	B2C
+●	B2B
+●	Qualitative
+●	Value Proposition
+Description
+In a concierge test the value proposition is delivered as a service. Like a hotel concierge the focus is on a highly customized customer facing service. For this method you need to
+ 
+perform the tasks manually usually with a few customers as it is not cost efficient to scale. However the high customer touch allows you to get quality feedback from the targeted segment. Key advantage is that services can be almost instantly adjusted at a very low cost. Hence iterations based on insights from customer feedback are easily done.
+
+To conduct a successful concierge test you need to be clear about your value proposition     and have it well formulated. As as an evolution of problem-solution interview techniques the goal is to test the solution and figure out if it matches your customer’s expectations. Design your value proposition as a service with the leap-of-faith assumptions in mind. When using   the service your customers should go through the same steps as they would go through later with your product idea.
+
+Deliver your service manually in a customized and personal way. This requires you to start with just a small batch of customers to avoid being overwhelmed. At this point you do not need a single line of code or automation. Even though it is not efficient and time consuming keep in mind that the direct customer touch you can learn from is more valuable. While delivering your service keep collecting feedback from your customers and adjust your  service accordingly.
+
+After some time you learn what your exact customers expectations are and what is really valuable to them. Gradually automate the parts of your service that work. Be careful not to run your concierge test forever! Keep automating and expanding your service until you are not getting any new major insights.
+Time Commitment & Resources
+Concierge tests can be the most time consuming test to perform as it requires manually solving the customer problem. For a complex B2B IT solution, a concierge solution can be a complete consulting engagement lasting many months. For a consumer, it might be as   simple as personally going shopping with a customer.
+Similarly, resources can be extremely intense, or as little as a pen and paper. In the case of a B2B concierge service, it is often possible to charge for the solution up front which     eliminates any resource constraints.
+How To
+1.	Write down the value proposition that needs to be tested.
+2.	Design the value proposition as a personalized, customer touching service.
+3.	Talk to potential customers (early adopters) and offer them your service in exchange for a payment.
+4.	Execute the service by performing tasks manually even though it is not effective.
+Interpreting Results
+The data you collect will be mainly qualitative data as you are delivering a manual service. You need to aggregate the data from all your current customers for the various aspects of your service. Use the insights to adjust your service accordingly.
+ 
+The main benefit of this method is to generate idea around the potential solution/product and identify any obstacles to implementing that solution.
+Potential Biases
+●	False Positive Bias: This method does not serve to validate the solution as the manual component provides an extra value proposition of trust and responsiveness. Entrepreneurs can therefore mistake positive feedback on the service as validation of the product concept. When moving to an automated solution, the extra “human” value proposition is removed and the customer can reject the solution.
+●	Confirmation Bias: Customers validate your value proposition but expect and value the highly personal service which usually is planned to automate later. Hence you will lack to convert the cost intense service into an efficient service or product.
+●	Sampling Bias: As the concierge test is manually performed you have to find a balance. On the one hand having too much customers leads you to be overwhelmed. You find yourself or your team just busy to deliver the promised service. Which leaves very little time to analyze the data and using the insights to adjust. On the other hand you have to make sure that your customer batch is not too small. Insights you get   from e.g. just one or two customers might not be enough. You risk that the collected feedback is not representative for your customer segment you are targeting.
+Field Tips
+●	“A concierge test is an experience not a product.” @poornima
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+
+Case Studies
+●	Food on the Table - The Ultimate Guide to Minimum Viable Products
+●	SlideShare - Manuel Rosso: Concierge MVP Lean Startup
+●	Medium - On MVPs Glueing Things Together and 270 Flights to South Africa
+●	Moves the Needle - Enterprise Lean Startup Experiment Examples
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	Cindy Alvarez - Lean Customer Development: Building Products Your Customers Will Buy
+●	I Build MVPs - The Concierge Minimum Viable Product Maximizes Customer Learning
+●	HBR - Building a Minimum Viable Product
+●	The Concierge MVP Board
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Demo	Pitch
+
+In Brief
+A Demo Pitch is when you are presenting or pitching your solution using some kind of   product or service demonstration in the hope to convince a potential customer. As a method it is similar to a Solution Interview but typically takes place at a later stage, as the solution becomes more baked and you have more elements to demonstrate. However, this can be done early in the process using the most realistic examples available. The style is more of a presentation than an interview and the goal is to assess how positive the reaction is and    why. A Demo Pitch is essentially a sales pitch to a potential customer in order to test their willingness to buy or recommend you to the economic buyer.
+Helps Answer
+●	Who is our early adopter or first customer?
+●	Who is the decision maker?
+●	Is it valuable enough for them?
+●	Are we positioning it right?
+●	Are we highlighting the most compelling features?
+●	How much is it worth to them?
+●	What is the sales / procurement process?
+●	How will they use or implement our solution?
+●	Can we sell it?
+ 
+Tags
+●	B2C
+●	B2B
+●	Key Partners
+●	Channel Partners
+●	Value Proposition
+Description
+There are many ways a demo pitch may be deployed. For B2C you may try to catch   consumers in a physical location at the point of sale of similar products and demo them. This may be done online via a targeted video ad in a particular social media channel so you can measure conversion. For B2B you will need to identify “influencers” and “decision makers” along with other key stakeholders in order to meet with them. Be careful to select people   who you think will be early adopters and won’t be too worried about the “who has already used this” question. How do they react, what feedback do they give? You might start with a cold call or via introduction and be able to demonstrate your solution via video call or screen sharing.
+
+You are looking for a “wow” reaction as a result and a significant next step in the buying process. You may be able to offer a pre-order option, secure a signed letter of intent, take a deposit, have a purchase order issues, get added to the vendor list, have your purchase agreement approved etc.
+
+You may also use this method to test commitment from key partners and channel partners as an indication if they will enter into agreements or trial phases with you. You therefore are collecting insights on how you can go-to-market with your offering.
+Time Commitment and Resources
+A few days for B2C and a few weeks for B2B depending how quickly you can set up appointments.
+How To
+●	Have a refined confident pitch suitable for the selected audience
+●	Prepare some form of demonstration that shows your solution in its best light
+●	Put yourself into a situation where you can communicate the above, uninterrupted and receive feedback
+●	Be ready to offer a suitable next step in the buying process as a test to see if they will move forward
+ 
+Interpreting Results
+You will receive qualitative signals during and after your pitch demo where the challenge is to differentiate between who is just being nice and who is really genuinely excited and why.
+
+The most important data will be who moves forward to the next stage of the buying process as a result
+Potential Biases
+●	Being able to secure a high number of demo pitches in itself is not an indication of success
+●	People may have very nice comments but if they don’t move with you further along the buying process, then you are knocking on the wrong door or need to make changes to your offering
+
+Field Tips
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+Case Studies
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	Salesforce - How to Make a Good Sales Pitch
+●	Forbes ­ 10 Steps for Giving a Convincing Sales Pitch
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Competitive Analysis
+
+
+
+In Brief
+Competitive Analysis is very much a secondary research method which you can perform online, relatively quickly and comprehensively. The analysis is absolutely crucial for any new business idea.
+
+As you are defining your idea, you need to conduct research in order to paint a picture of the competitor landscape. You will likely start out with quite a wide capture of different players and will then be able to zoom in over time as your other experiments guide you towards the exact customer segment and solution you will build. A detailed competitor analysis can help you communicate your idea to others as well as differentiate it. The analysis is a form of due diligence repeated over time and is expected by investors or sponsors.
+Helps Answer
+●	Who is our competitor?
+●	Where are they active?
+●	What is their business model?
+●	How can we differentiate our offering and positioning?
+●	What type of revenues are being generated?
+ 
+Tags
+●	B2C
+●	B2B
+●	Qualitative
+●	Channels
+●	Value Proposition
+Description
+Time Commitment & Resources
+Initially 1-2 days and then keep adding on and perform regular scans of the market.
+How To
+The typical way to display a competitive analysis has been to plot performance on an X/Y graph with all the competitors located at the bottom left and your company at the top right. This method is typical when existing companies launched a new product into an existing crowded market place and is therefore not so relevant for startups or existing companies looking to create new markets (true innovation). Steve Blank suggests using a “petal    diagram” where you plot your idea at the centre of the slide. Then highlight where your new customers are likely to come from (adjacent markets segments) using a cloud around your company (as many as needed) and then fill in each section with names of companies that are representative players in each segment. You can then try to identify which companies are private and note how much investment they had received to identify which spaces are being perceived as “attractive” to investors. On top of this, you can note the current and projected market size of each segment to understand how big your new market could be.
+
+After initial analysis, you should know three things: who your biggest competitors are, the basics of their company strategy, and how you are (or will be) different from what they’re doing. By understanding the market landscape, you are able to gather more clues about how you might approach distribution, positioning and pricing.
+
+Some tools you can use to extract competitor information are:
+●	Crunchbase
+●	Angel List
+●	Quora
+●	Google Finance (listed companies and their “related companies”)
+●	Google Search (industry key words)
+●	Google News Alerts (industry key words)
+●	Forrester Research / IDC / Gartner etc (market reports)
+ 
+When doing competitive research on other web-based companies here are a few other tools you can use:
+●	Compete to see their traffic data, and which way it’s trending
+●	Quantcast to get a rough feel for the demographics of their average customer
+●	AppData (if they have a Facebook or mobile app) to see how engaged their users are
+
+Interpreting Results
+By understanding the key players in your space and adjacent segments, you will increase  your domain knowledge around your business. If you can’t find any similar organisation or research being conducted, it means you have not looked hard enough as it is highly unlikely that no one in the entire world is working on the same or very similar business idea. On the flip side, uncovering many competitors does not mean you should not continue. The discovery will help you to refine your offering and business model for a market which is growing overall.
+
+“A rising tide can lift all boats” - so focus on being one of the boats and not worrying about how to dominate the entire segment from day one. “Competitors” can also become key partners to help each other get off the ground in the new market. They can also give you clues as to where you can gain initial traction in the market.
+Potential Biases
+●	Confirmation Bias: Entrepreneurs naturally don’t want to find competitors so they can put the blinders on. They prefer to simply focus on their own vision of how the world is. Make sure your methods are exhaustive, compelling and repeated to keep   up to date with new entrants. Get external / neutral help to make the analysis to avoid this kind of bias.
+●	The Numbers: Don’t worry about too few or too many players but learn how can you fit into the space that is being created. Know your strengths and weaknesses against each player.
+●	Too Local: Don’t limit your search to your local area. For most new business ideas today we need to be taking a global perspective and that also means doing global research.
+Field Tips
+●	Competitor Analysis should color your thinking, create the appropriate context and help educate you on what’s going on @byosko
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+Case Studies
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+ 
+References
+●	Steve Blank - A New Way to Look at Competitors
+●	Instigator Blog - Competitive Research 101 for Startups
+●	Justin Mares - A Startup Guide to Competitive Research
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Solution Interview
+
+
+
+In Brief
+
+
+We’re not done yet!
+
+Tweet us and we’ll write this chapter:
+
+Hey, @realstartupbook, please write the chapter on Solution Interview
+ 
+Evaluative	Product Experiments
+
+
+
+
+
+
+“Any product that needs a manual to work is broken”
+– Elon Musk
+ 
+
+Usability Testing
+
+In Brief
+Usability testing is observing users trying to complete a series of tasks with an interactive product. The product can be any level of fidelity from a paper mockup to a fully functioning product. Users are asked to perform a series of tasks and the observer record whether the user is able to perform them and if they become confused or frustrated during the process.
+
+Helps Answer
+●	How do people use the product or service?
+●	Do people understand how to use the product or service (as intended)?
+●	What do people experience at different touch points while using the product or service?
+
+Tags
+●	Qualitative
+●	Value Proposition
+●	Customers
+ 
+
+Description
+Time Commitment & Resources
+Usability Tests with 5 users can be finished in half of a working day with minimal resources. Tests are typically no more than 5 -7 users, unless the tasks users perform are complex and involve several parties collaborating simultaneously to complete the test.
+Tests are often performed with extensive equipment including full usability labs with  cameras, eye tracking software, and one way mirrors. However, this is not strictly necessary.
+How To
+1.	Prepare
+Preparation is critical for usability testing since test produces a number of potential biases in interpreting the qualitative results. At the minimum, the experimenter should have:
+●	Introduction script
+●	List of use cases and tasks
+○	Context of the task (e.g. “You are thinking of buying a car.”)
+○	Description of task (e.g. “You would like to compare prices of various cars.”)
+○	Reasonable time limit for each task
+●	Recording equipment
+○	such as a notebook or a camera
+Usability tests can be performed in any environment. In some cases, a usability lab with no distractions may be very different from the environment the product will actually be used. A real environment such as a workspace or coffeeshop may provide more accurate real world behavior, but may make detailed observations difficult or impossible. A usability lab allows for detailed observations but might lack realism.
+2.	Frame for feedback
+The experimenter explains the purpose of the experiment to the user to ensure that they are willing to give honest, open feedback. Normally, the experimenter will reassure the user that any tasks that are difficult are not the fault of the user and that any problems encountered are exactly the feedback the experimenter desires.
+This is normally done with a pre-written script to ensure consistency between sessions and experimenters.
+3.	Explain the task
+ 
+The experimenter explains a single task and any context to be performed by the user.
+4.	Observe the user
+The experimenter observes the user attempting the task while asking them to talk out loud about their impressions, intentions, and expectations. The experimenter does not explain or provide any guidance, but only interjects to ask the user about their thought process, feelings, or experiences.
+The entire process can be recorded with audio, visual, screen capture software, or even eye tracking software for additional review later.
+5.	Repeat if necessary
+The user may then be given additional tasks and steps 3-4 are repeated until all tasks are completed.
+6.	Exit Interview
+Usability tests are usually concluded by thanking the user and asking open ended follow up questions to clarify their experience. For example:
+●	How did you find using this product/website*?
+●	How easy was it to perform <given task>?
+●	What was the most difficult part in performing this task?
+●	How did you find you experience with the product or the website?
+Interpreting Results
+Even usability experts sometimes don’t agree on the interpretation of usability tests. Having multiple observers for the usability tests can help eliminate potential subjective biases from having only one experimenter.
+Experimenter and any observers must synthesize their observation notes, making care to note any points where the user showed an emotional response such as frustrations. The group must then identify the functional issues or functional errors that were reported by most/all of the participants.
+Given the small sample size of most usability tests, consistent usability problems found it most cases should be prioritized and testing rerun with the proposed solution.
+If all users can successfully complete the tasks, that indicates the product is usable, but does not indicate whether the product is desirable or whether the value proposition is actually delivered.
+Potential Biases
+●	Hawthorne Effect (The Observer Effect): Users may behave differently when attempting to complete a task based on their awareness of being observed.
+ 
+●	Social Desirability Bias: Users may try to answer questions or do tasks to try and be viewed favorably by the experimenter.
+●	Confirmation Bias: Experimenters sometime ask questions or create the use cases in such a way that the user’s response/action confirms his/her preconceptions, hypothesis or beliefs.
+●	Selection Bias: Selection of the correct audience can severely bias results. For example, testing usability with existing users will not show issues that new users may have with a product.
+
+Field Tips
+●	“A usability test is the place to synthesize what you believe and what reality will accept” @ericries
+●	“The goal of a usability test is to make the users’ experience with the product easy and intuitive” @dharanidhar21
+●	“When testing usability, find users who are a little less savvy and aim to simplify your product” @TriKro
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+
+Case Studies
+●	Maryellen Allen - A case study of usability testing of the University of South Florida’s virtual library interface design
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	Usability Testing (Nielsen Norman Group, n.d.)
+●	The Myth of Usability Testing, by Robert Hoekman Jr. October 20, 2009
+●	Practical Usability Testing (Human Factors International, n.d.)
+●	The 12 cognitive biases that prevent you from being rational (George Dvorsky, io9)
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Survey	-	Net	Promoter	Score
+
+In Brief
+Net Promoter Score identifies customer loyalty to the brand or product. The survey uses a score of 0 to 10 to the answer to the question: “How likely is it that you would recommend [company X or product Y] to a friend or colleague?”.
+
+Net Promoter Score was first introduced by Frederick F. Reichheld in a Harvard Business Review article: “The One Number You Need to Grow”.
+
+From the score of 0 to 10, people who give score 9 to 10 are considered “Promoters.”  People who give score 7 to 8 are considered “Passives,” meaning who are satisfied but are not very loyal to your brand or product. People who give score 0 to 6 are considered “Detractors.”
+
+The Net Promoter Score question can be followed up with another question to find out the reason(s) for the score the customer gave. By doing so, the Net Promoter Score can be associated with both qualitative and quantitative results.
+Helps Answer
+●	What is your customer loyalty rate?
+●	How to segment your customers to promote the product/services?
+●	Who are brand ambassadors among the customers?
+Tags
+●	B2C
+●	B2B
+●	Customer
+ 
+●	Relationship
+●	Value Proposition
+●	Quantitative
+●	Qualitative
+Description
+Net Promoter Score tracks loyalty and can identify the ambassadors amongst your customers. It is commonly used as a simple customer satisfaction metric.
+
+The Net Promoter Score is not just one question but rather, a group of questions probing to understand the customer’s feeling or loyalty towards the company, product, or service.
+
+By understanding the reasons of the scores, you can determine how many people will become ambassadors. It can also determine where your company, product, or service stands in word of mouth marketing.
+Time Commitment and Resources
+The survey can be sent to customers at one time. The results can be compiled and analyzed in about a week. NPS surveys can be sent every six months or every year to determine changes as well.
+How To
+NPS survey is simple and straightforward. You can use third party survey company/services like Survey Monkey or traditional pen-and-paper methods. You can even just send the question via email to your customers directly.
+
+Many companies send NPS question together with other survey questions to save time and resources.
+Interpreting Results
+By understanding the reasons why the customers are loyal to (or recommend) your company, product, service, loyalty economics can be calculated.
+
+While there are some variances on the interpretations of an NPS result, the original NPS score calculation is achieved by subtracting the percentage of respondents that are labeled “Detractors” from the percentage of respondents that are labeled “Promoters” like this:
+
+NPS = % of Promoters – % of Detractors
+
+Here’s an easy-to-understand graphic from Net Promoter System:
+ 
+ 
+
+However, interpreting the scores is only half the benefit of NPS questionnaire. The second part of “Why” question is equally important if not more than the actual Net Promoter Score itself. By understanding the reasons why your customers may or may not promote your company, product, or service can lead to breakthrough insights.
+
+By understanding the “Why” components of NPS surveys better, you can identify which customer segments are more valuable and what do they want more from your company, product, or service. Moreover, you can also identify the reasons certain customer segments become detractors or passives.
+Potential Biases
+Timing of sending the NPS questionnaire to customers can lead potential bias on the results. For example, if you sent out the survey shortly after you have upset several customers, they will not give high scores on the questions. Likewise, if you have recently made several customers happy, they will rate your customer, product, or service higher.
+Field Tips
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+Case Studies
+●	GrooveHQ - Lessons Learned Sending a Net Promoter Survey to 4,000 Users
+●	Zendesk - Measure customer loyalty with Net Promoter Score surveys in Zendesk
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+
+References
+●	Survey Monkey - Net Promoter® Score (NPS) Survey
+●	Bain & Company - The economics of loyalty - Loyalty Insights #3
+●	Zendesk - NPS best practices: The most effective way to send a Net Promoter Score
+●	Qualtrics - Net Promoter® Score System Questions Answered
+●	Customer Satisfaction Strategy - Pros and Cons of Net Promoter Score
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Paper Prototyping
+
+
+
+In Brief
+
+
+We’re not done yet!
+
+Tweet us and we’ll write this chapter:
+
+Hey, @realstartupbook, please write the chapter on Paper Prototyping
+ 
+Out	of	the	Box
+
+
+
+“Constraint inspires creativity”
+– Biz Stone
+ 
+A/B Testing
+
+In Brief
+A/B testing (also known as split testing and bucket testing) is a randomized method of comparing two versions of an element (A and B) against each other to determine which one performs better using a metric to define success. To determine which one is better, you subject both versions to experimentation simultaneously. In the end, you measure which version was more successful and select that version for real-world use.
+Helps Answer
+●	Which features of my product or service will increase my conversion rate?
+●	Which is the most effective design of my product or service to increase sales?
+●	What is the most effective design of my website to generate traffic?
+●	Which layout of my website leads to a higher sales conversion rate?
+Tags
+●	Quantitative
+●	Design Features
+●	Conversion Rate
+●	Bounce Rate
+●	Value Proposition
+●	Customer
+●	Channel
+●	Relationship
+ 
+Description
+A/B Testing is similar to the experiments you did in Science 101. Remember the experiment in which you tested various substances to see which supports plant growth and which suppresses it. At different intervals, you measured the growth of plants as they were subjected to different conditions, and in the end you tallied the increase in height of the different plants.
+
+A/B testing allows you to show potential customers and users two versions of the same element and let them determine the winner. As the name implies, two versions (A and B) are compared, which are identical except for one variation that might affect a user's behavior. Version A might be the currently used version (control), while version B is modified in some respect (variation).
+
+In online settings, such as web design (especially user experience design), the goal is to identify changes to web pages that increase or maximize an outcome of interest. Constantly testing and optimizing your web page can increase revenue, donations, leads, registrations, downloads, and user generated content, while providing teams with valuable insight about their visitors.
+
+For instance, on an ecommerce website the purchase funnel is typically a good candidate for A/B testing, as even marginal improvements in drop-off rates can represent a significant gain in sales. Significant improvements can sometimes be seen  through  testing  elements  like copy text, layouts, images and colors, but not always.
+
+By measuring the impact that changes have on your metrics such as sign-ups, downloads, purchases, or whatever else your goals might be, you can ensure that every change produces positive results.
+
+This differs from multivariate testing, which tests out multiple variations of a page at the same time.
+
+The vastly larger group of statistics broadly referred to as multivariate testing or multinomial testing is similar to A/B testing, but may test more than two different versions at the same time and/or has more controls, etc. Simple A/B tests are not valid for observational,
+quasi-experimental or other non-experimental situations, as is common with survey data, offline data, and other, more complex phenomena.
+
+Imagine a company, Acme Cables, that operates a web store selling cables. The company’s ultimate goal is to sell more cables and increase their yearly revenue, thus the checkout funnel is the first place Acme’s head of marketing will focus the optimization efforts.
+ 
+The “buy” button on each product page is the first element visitors interact with at the start  of the checkout process. The team hypothesizes that making the button more prominent on the page would lead to more clicks and therefore more purchases. The team then makes the button red in variation 1 and leaves the button grey in the original. They are able to quickly set up an A/B test using an A/B testing tool that pits the two variations against each other.
+
+As the test runs, all visitors to the Acme Cables site are bucketed into a variation. They are equally divided between the red button page and the original page.
+Once enough visitors have run through the test, the Acme team ends the test and is able to declare a winner. The results show that 4.5% of visitors clicked on the red buy button and     1% clicked on the original version. The red “Buy” button led to a significant uplift in   conversion rate, so Acme then redesigns their product pages accordingly. In subsequent A/B tests, Acme will apply the insight that red buttons convert better on their site than grey buttons.
+
+You can also use it when you want to test your headline, but you have three possible variations. In that case, running a single test and splitting your visitors (or recipients in the  case of an email) into three groups instead of two is reasonable, and would likely still be considered an A/B test. This is more efficient than running three separate tests (A vs. B, B vs.  C, and A vs. C). You may want to give your test an extra couple of days to run, so that you     still have enough results to base any conclusions on.
+Testing more than one thing at a time, such as headline and call to action, is a multivariate test, and is more complicated to run. There are plenty of resources out there for multivariate testing, but we won’t be covering that when talking about A/B testing.
+Once you've concluded the test, you should update your product and/or site with the desired content variation(s) and remove all elements of the test as soon as possible.
+
+Time Commitment
+A/B testing is not an overnight project. Depending on the amount of traffic you get, you might want to run tests for anywhere from a few days to a couple of weeks. And you’ll only want to run one test at a time for the most accurate results.
+Considering the impact A/B testing can have on your bottom line, though, it’s worth taking a few weeks to properly conduct tests. Test one variable at a time, and give each test    sufficient time to run.
+How To
+1.	Define the question you want to answer: "Why is the bounce rate of my website higher than industry standard?" Start an A/B test by identifying a goal for your company. E.g. reduce bounce rate.
+2.	Do background research: Understand your customer/consumer behavior. For website purposes you can use Google Analytics and any other analytics tools. For other purposes you can use consumer behaviour analytics available.
+ 
+3.	Construct a hypothesis: define the hypothesis you want to test in a concise and measurable manner. E.g. "Adding more links in the footer will reduce the bounce rate".
+4.	Define metrics and significant difference: derive one metric that measures the hypothesis, in this case “bounce rate”. Once defined the metric, set the significance difference, that is, the minimum difference between the two versions’ metrics that will mean the change is worth it. E.g. significance difference: version B must have at least 3% less bounce rate than version A to consider it a successful and meaningful improvement.
+5.	Calculate the number of visitors/days you need to run the test for: Always calculate the number of visitors required for a test before starting the test. You can use an A/B Test Duration Calculator for website purposes.
+6.	Test your hypothesis: You create two products/services A and B, in which the   variation (version B) has the hypothesis you want to test, in this case a footer with more links. You test it against the original and gather results of the metric selected, in this case bounce rate.
+7.	Analyze data and draw conclusions: If the footer with more links reduces bounce rate more than the target set, then you can conclude that increased number of links in the footer is one of the factors that reduces bounce. If there is no meaningful difference in bounce, then go back to step 3 and construct a new hypothesis.
+8.	Report results to all concerned: let others in Marketing, IT and UI/UX know of the test results and insights generated.
+Interpreting Results
+We must set from the beginning the significant difference (practically significant), that is,   what difference between the version will lead to change. This decision is based on several factors such as: investment of the changes, periodicity of changes, etc. For online testing, a 1-2% difference is enough to justify the change. For offline testing (e.g. new medicine or new hardware product), the difference to make the change beneficial can be around 10-15% difference in magnitude.
+
+We must ensure that what has been observed is repeatability, and not an isolated case. The size of the experiment must be in a way that the statistical significance bar is lower than the practical significance.
+Potential Biases
+It is important to note that if segmented results are expected from the A/B test, the test should be properly designed at the outset to be evenly distributed across key customer attributes, such as gender. That is, the test should both (a) contain a representative sample    of men vs. women, and (b) assign men and women randomly to each “treatment” (treatment A vs. treatment B). Failure to do so could lead to experiment bias and inaccurate conclusions  to be drawn from the test
+ 
+Giving a test insufficient time can mean skewed results, as you don’t get a large enough   group of visitors to be statistically accurate. Running a test for too long can also give skewed results, though, since there are more variables you can’t control over a longer period. Make sure that you stay abreast of anything that might affect your test results, so that you can account for any statistic anomalies when reviewing your results. If you’re in doubt, it’s perfectly reasonable to retest.
+
+A/B testing is not so good for testing:
+1.	New things (e.g. change of version, or novelty effect)
+2.	Too many changes, as the results will not be conclusive
+3.	If something is missing (e.g. feature, style, information)
+Field Tips
+●	“Keep your A/B Testing variations to a minimum to ensure meaningful results” -
+@sircastel
+●	“Define your metrics and minimum success rate before running A/B Testing” -
+@sircastel
+●	Got a tip? Add a tweetable quote by emailing us: realbook@trikro.com
+Case Studies
+●	VWO - Website Redesign Increased Conversions
+●	VWO - SaaS Pricing A/B Testing
+●	Got a case study? Add a link by emailing us: realbook@trikro.com
+References
+●	Optimizely - A/B Testing
+●	Wikipedia - A/B Testing
+●	Free Udacity Online A/B Testing Course
+●	Free Sample Size Calculator Tool
+●	Got a reference? Add a link by emailing us: realbook@trikro.com
+ 
+Appendices
+
+
+
+“The eye sees only what the mind is prepared to comprehend.”
+– Robertson Davies
+ 
+Biases
+Cognitive
+●	Anchoring Effect: Basing subsequent judgements of an event based on the event’s first piece of information.
+●	Availability Bias: Judging an event because of how easy you can think of examples    of the event.
+●	Central Tendency: Categorizing and judging information as it relates to a prototype while ignoring variation.
+●	Confirmation Bias: Seeking information and evidence that supports your beliefs and hypotheses, while ignoring conflicting information.
+●	Curse of Knowledge: Lacking empathy towards others because of you know more than another person about a particular subject.
+●	Fundamental Attribution Error: Thinking that people behave a certain way due to their personality and not the situation in which they find themselves in.
+●	Halo Effect: Overvaluing the overall, good impression of a person, brand, product, organization, etc., which makes it easier to overlook any bad impression.
+●	Hindsight Bias: Thinking that you knew-it-all-along; however, prior to the event happening, you had no basis for your prediction.
+●	Observer Bias: Influencing the research because, you, as the observer know of the study’s goals and objectives.
+●	Overconfidence: A belief that you’re better than others, and that negative outcomes can happen to others (but not me).
+●	Primacy Effect: Recalling and emphasizing information that happened towards the beginning of an experience.
+●	Recall Bias: An incomplete and inaccurate remembering of past events or experiences.
+●	Recency Effect: Recalling and emphasizing information that happened towards the end of an experience.
+●	Response Bias: Range of biases that influences subject’s responses away from a truthful response.
+●	Self-Fulfilling Prophecy: Expecting others to behave a certain way. Seeing the other person’s actions confirms your expectations.
+Research
+●	Framing Effect: Seeing differences in experimental results because of differing contexts and situations, apart from experimental variables.
+●	False Negative: A result that appears negative when it should not.
+●	False Positive: A result that appears positive when it should not.
+ 
+●	Measurement Bias: Systematic error in measurement or classification for participants in study.
+●	Omitted-Variable Bias : Leaving out one or more causal variables in a statistical model.
+●	Planning Effect: A belief that you’ve accurately estimated the planned work.
+●	Selection Bias: Erroneously choosing participants to study, which affect your study results.
+References
+●	Wikipedia: List of Cognitive Biases
+●	Identifying Bias and Avoiding Bias in Research
+●	Six Basic Statistical  Tools
+●	Daniel Kahneman on Bias
+●	A list of cognitive Biases
+●	Lesswrong.com
+●	Dave McRaney of youarenotsosmart
+●	Anchoring Effect
+●	Availability Bias
+●	Central Tendency
+●	Confirmation Bias
+●	Framing effect
+●	Fundamental Attribution error
+●	Halo effect
+●	Hindsight Bias
+●	Observer Bias
+●	Overconfidence
+●	Primacy Effect
+●	Recall Bias
+●	Recency Effect
+●	Response Bias
+●	Self-Fulfilling Prophecy
+●	Framing Effect
+●	False Negative
+●	False Positive
+●	Measurement Bias
+●	Omitted-Variable Bias
+●	Planning Effect
+●	Selection Bias
+ 
+Afterword
+What’s are the next steps?
+
+
+“I'm not of the opinion that the next logical step for a book is for it to be made into a film.” – Jasper Fforde
+
+For You
+This book won’t make you successful. You have to work for that. Entrepreneurship is not an academic theory, it’s a practice.
+So to get better at it, just do it!
+Figure out what question you have about your product or market, pick a method, and start practicing.
+For This Book
+This book is not done, nor will it ever be. We learn faster together.
+Have you come up with a new method? Got a new tip? Let us know by emailing realbook@trikro.com
