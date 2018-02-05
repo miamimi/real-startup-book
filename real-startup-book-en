@@ -1,467 +1,456 @@
-# The Real Startup Book
-# Copyright
+The Real Startup Book
+Copyright
 Version 0.3
-
-This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-
-To everyone that has ever failed and had the audacity to admit it.
-
-# Forward
-
-> “When all you have is a hammer, everything looks like a nail.” – Unknown
-
+This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International
+License.
+To everyone
+that has ever failed
+and had the audacity
+to admit it.
+Forward
+“When all you have is a hammer, everything looks like a nail.” – Unknown
 My first encounter with the term lean startup introduced me to the concept of a smoke test.
-The idea was elegant, place a value proposition onto a landing page with the intent to gauge customer demand.
-So of course I applied it immediately.
-
+The idea was elegant, place a value proposition onto a landing page with the intent to gauge
+customer demand. So of course I applied it immediately.
 When I heard about Sean Ellis’ “How disappointed would you be” survey, I used that.
-
 When I heard about concierge testing, Wizard of Oz testing, paper prototyping, I used them.
-
 I used them without thought.
-
 I used them because that’s all I knew.
-
-I used them because someone whose name I recognized used them and wrote it down on a blog, in a book, on a slide.
-
-I used them with the same flawed logic that says, “Air Jordans makes great basketball players.”
-
-After 6 years of living lean, I’m starting to recognize that to build something great, to build something that will last, to be a great carpenter, we don’t need a great pair of sneakers, we need a great toolbox. And we need to know how to use it.
-
-# Preface
-
-# What's a Real Book?
-Go to any jazz jam session and you’ll see one book on stage. The Real Book.
-Every serious musician has it. It’s a large, tome with text that looks like someone took handwritten music charts, photocopied them, and then stuck them in a binder.
-Each page is a jazz standard. All Blues by Miles Davis, Autumn Leaves by Johnny Mercer, A Night in Tunisia by Dizzy Gillespie...even some more esoteric tunes like Peaches in Regalia by Frank Zappa.
-Unlike various “fake books” out there which provided details on how to play each note and where to put your fingers, the Real Book was minimal. Each page had the key signature, time signature, chords, melody line, and not much else.
-It was just enough detail to play the song.
-It was vague enough to allow for the extensive improvisation that makes jazz jazz.1 It was heaven.
-
-
+I used them because someone whose name I recognized used them and wrote it down on a
+blog, in a book, on a slide.
+I used them with the same flawed logic that says, “Air Jordans makes great basketball
+players.”
+After 6 years of living lean, I’m starting to recognize that to build something great, to build
+something that will last, to be a great carpenter, we don’t need a great pair of sneakers, we
+need a great toolbox. And we need to know how to use it.
+Preface
+What's a Real Book?
+Go to any jazz jam session and you’ll see one book on
+stage. The Real Book.
+Every serious musician has it.
+It’s a large, tome with text that looks like someone
+took handwritten music charts, photocopied them, and
+then stuck them in a binder.
+Each page is a jazz standard. All Blues by Miles Davis,
+Autumn Leaves by Johnny Mercer, A Night in Tunisia
+by Dizzy Gillespie...even some more esoteric tunes like
+Peaches in Regalia by Frank Zappa.
+Unlike various “fake books” out there which provided
+details on how to play each note and where to put your
+fingers, the Real Book was minimal. Each page had the
+key signature, time signature, chords, melody line, and
+not much else. It was just enough detail to play the
+song. It was vague enough to allow for the extensive
+improvisation that makes jazz jazz.1
+It was heaven.
+-
 The Real Book answered a simple question for musicians, “How do I play that song?”
-
-
-Where a musician’s job is play songs, the startup product manager’s job is to run experiments and do research. Our job is to challenge assumptions and test hypotheses.
-
-
-We have unanswered questions and the answers lie out in the real world with real users.
-We gather these answers with research and experiments.
-
-
+Where a musician’s job is play songs, the startup product manager’s job is to run
+experiments and do research. Our job is to challenge assumptions and test hypotheses.
+We have unanswered questions and the answers lie out in the real world with real users. We
+gather these answers with research and experiments.
 1 Of course I learned much later that the Real Book was illegal.
-First published in 1971, it didn’t pay any royalties to the musicians who wrote the songs. But it was the standard book that everyone learned out of because it was the most complete and accurate.
-It was also published in multiple keys so that musicians with varying instruments would be able to refer to the same song, with even identical page numbers, and not miss a beat.
+First published in 1971, it didn’t pay any royalties to the musicians who wrote the songs. But it was the
+standard book that everyone learned out of because it was the most complete and accurate.
+It was also published in multiple keys so that musicians with varying instruments would be able to refer to
+the same song, with even identical page numbers, and not miss a beat.
 Nowadays, The Real Book is legit, and is published by Hal Leonard who does pay royalties as appropriate.
-
-
-The goal for the Startup Real Book is to answer a simple question for startups, “How do I learn about my business model?”
-Based on the unknowns in our business, and the questions we ask about our startup business model, there is an experimental or research method to answer it.
-This book should help us find those answers by showing us what methods are most appropriate and give us just enough information to craft an appropriate experiment for our situation, in our industry, in our country, in our business model.
-It should not be overly dogmatic and should leave sufficient room for interpretation such that depending on our unique circumstances, we can still improvise.
-This is not a textbook, it’s not a “How To” guide, and it’s not a “fake book.” It’s a reference book.
+The goal for the Startup Real Book is to answer a simple question for startups, “How do I
+learn about my business model?”
+Based on the unknowns in our business, and the questions we ask about our startup
+business model, there is an experimental or research method to answer it.
+This book should help us find those answers by showing us what methods are most
+appropriate and give us just enough information to craft an appropriate experiment for our
+situation, in our industry, in our country, in our business model.
+It should not be overly dogmatic and should leave sufficient room for interpretation such that
+depending on our unique circumstances, we can still improvise.
+This is not a textbook, it’s not a “How To” guide, and it’s not a “fake book.” It’s a reference
+book.
 Keep it, refer to it, and toss it to the side when you need to.
-
-
+-
 More importantly, please write on it. Scribble, scratch, and change it.
 If you think it’s wrong, submit a change to realbook@trikro.com .
 If you have a suggestion, send it in. If you’re learning a better way, let us know.
 This book is creative common licensed and is meant to be continually improved and shared.
 So please help us by finding problems and fixing them!
-
-# Who is This Book For?
-If you’ve ever recognized a giant hole in your business model and had no idea how to go about filling in the unknown, this book is for you. You may be asking:
-* Who are our customers?
-* What are the most important features of our product?
-* Why are people doing that?
-* Will people actually pay for this?
-This book is for managing innovation projects where the business model is partly or completely unknown. Your job title might be:
-* Product Manager
-* CEO of an early stage startup
-* Entrepreneur in Residence
-## Previous Experience
+Who is This Book For?
+If you’ve ever recognized a giant hole in your business model and had no idea how to go
+about filling in the unknown, this book is for you. You may be asking:
+● Who are our customers?
+● What are the most important features of our product?
+● Why are people doing that?
+● Will people actually pay for this?
+This book is for managing innovation projects where the business model is partly or
+completely unknown. Your job title might be:
+● Product Manager
+● CEO of an early stage startup
+● Entrepreneur in Residence
+Previous Experience
 You should be familiar with concepts such as:
-* Lean Startup
-* User Experience
-* Human Centered Design / Design Thinking
-* Business Model Canvas
-It’s ok if you haven’t heard of any of these terms, but you’ll get a lot more out of it if you have.
-In particular, you should already be bought into the idea that there are parts of your business model that are unknown and the way to figure that out is to do research and experiments out of the building and in the real world with your customers.
-# Innovation at Scale
-This book is particularly useful for those managing or assisting large numbers of innovation products. This includes:
-* Chief Innovation Officer
-* VP of Innovation
-* Accelerator Manager
-* Lean Startup / Innovation Coach
-If this is you, you’ll find this book serves as a versatile and handy quick reference guide for almost any startup you’ll be dealing with. It can also be used to diagnose typical startup problems.
-
-
-It is also a Creative Commons project which means you can use it as training material for your startups without any additional cost.
-
-## Business Model
-This book is best used to answer questions about certain business model elements such as the Customer , the Value Proposition , Channel , Relationship , & Revenue . In other words, the critical elements in Product / Market Fit .
-
-
-While many of the methods listed here can be used to investigate other business model elements such as Partners & Resources , it may take some interpretation on the part of the reader.
-
-## Stage and Industry
-The methods here work fine for small, early stage startups and equally fine for teams in large companies trying something new, risky, and outside the normal business model.
-
-
-It also works for any industry, but there is a bias towards providing examples and case studies from the technology industry. Other industries will be included as case studies become available. Please send any such case studies to realbook@trikro.com to be included.
-
-## Warnings: Academics and Existing Businesses
-This book is not for students trying to learn in a static academic environment. You’ll have to go out and use this book in the real world with real customers to get anything out of it. So if your teacher just handed this to you, get ready to get kicked out of the building to go talk to customers.
-
-
-This book is also not for companies executing on an existing business model. While some of the techniques listed here may work quite well for optimizing an existing product or service, it’s not designed for that and traditional product management methods might be more appropriate.
-
-## Continual Improvement
-Future improvements may change or broaden the focus on this book. This is a living document which will be updated regularly.
-
-# How to Use This Book
-Do not read this book straight through. Read the Index thoroughly, then reference other pages as needed.
-
-
-This book is not a step 1, step 2, step 3 guide to building a startup. Startups don’t work like that.
-
+● Lean Startup
+● User Experience
+● Human Centered Design / Design Thinking
+● Business Model Canvas
+It’s ok if you haven’t heard of any of these terms, but you’ll get a lot more out of it if you
+have.
+In particular, you should already be bought into the idea that there are parts of your business
+model that are unknown and the way to figure that out is to do research and experiments out
+of the building and in the real world with your customers.
+Innovation at Scale
+This book is particularly useful for those managing or assisting large numbers of innovation
+products. This includes:
+● Chief Innovation Officer
+● VP of Innovation
+● Accelerator Manager
+● Lean Startup / Innovation Coach
+If this is you, you’ll find this book serves as a versatile and handy quick reference guide for
+almost any startup you’ll be dealing with. It can also be used to diagnose typical startup
+problems.
+It is also a Creative Commons project which means you can use it as training material for
+your startups without any additional cost.
+Business Model
+This book is best used to answer questions about certain business model elements such as
+the Customer , the Value Proposition , Channel , Relationship , & Revenue . In other words,
+the critical elements in Product / Market Fit .
+While many of the methods listed here can be used to investigate other business model
+elements such as Partners & Resources , it may take some interpretation on the part of the
+reader.
+Stage and Industry
+The methods here work fine for small, early stage startups and equally fine for teams in large
+companies trying something new, risky, and outside the normal business model.
+It also works for any industry, but there is a bias towards providing examples and case
+studies from the technology industry. Other industries will be included as case studies
+become available. Please send any such case studies to realbook@trikro.com to be
+included.
+Warnings: Academics and Existing Businesses
+This book is not for students trying to learn in a static academic environment. You’ll have to
+go out and use this book in the real world with real customers to get anything out of it. So if
+your teacher just handed this to you, get ready to get kicked out of the building to go talk to
+customers.
+This book is also not for companies executing on an existing business model. While some of
+the techniques listed here may work quite well for optimizing an existing product or service,
+it’s not designed for that and traditional product management methods might be more
+appropriate.
+Continual Improvement
+Future improvements may change or broaden the focus on this book. This is a living
+document which will be updated regularly.
+How to Use This Book
+Do not read this book straight through. Read the Index thoroughly, then reference other
+pages as needed.
+-
+This book is not a step 1, step 2, step 3 guide to building a startup. Startups don’t work like
+that.
 Think of this book as a toolbox.
-
-Like any toolbox, it’s organized to help us find what we’re looking for when we need it. When we need a way to test market demand, there’s a section on Evaluative Market Experiments.
-When we’re looking to prioritize our ever growing feature list into a Minimum Viable Product , there’s a section on Generative Product Research .
-
-
-The index for navigating this book is not alphabetical, chronological, or ontological. The index is ordered by what you’re trying to learn. Are you trying to learn about your customer?
+Like any toolbox, it’s organized to help us find what we’re looking for when we need it. When
+we need a way to test market demand, there’s a section on Evaluative Market
+Experiments . When we’re looking to prioritize our ever growing feature list into a Minimum
+Viable Product , there’s a section on Generative Product Research .
+The index for navigating this book is not alphabetical, chronological, or ontological. The
+index is ordered by what you’re trying to learn. Are you trying to learn about your customer?
 How to price your product? What will make your users come back?
-
-
-It is highly recommended that you read the index thoroughly. You will not get the major benefit of this book without it.
-
-
-When faced with an unknown aspect of your business model, first figure out what you need to learn. What’s your learning goal? What question are you trying to ask?
-
-
-Once you know what you need to learn, consult the index to find a list of research and experimental methods that will help. Then read each method and determine which will work best for your situation and resources.
-
-
+-
+It is highly recommended that you read the index thoroughly. You will not get the major
+benefit of this book without it.
+When faced with an unknown aspect of your business model, first figure out what you need
+to learn. What’s your learning goal? What question are you trying to ask?
+Once you know what you need to learn, consult the index to find a list of research and
+experimental methods that will help. Then read each method and determine which will work
+best for your situation and resources.
+-
 In each method section, you will find the following headers:
-## In Brief
+In Brief
 A quick 2-3 sentence description.
-
-## Helps Answer
+Helps Answer
 A list of common questions that this method helps answer.
-
-## Tags
-A list of terms that can also be used to navigate through the book such as B2B (for methods commonly used for Business-to-Business models) and qualitative (for the type of data used by this method.
-
-## Description
-A more detailed description of the steps normally taken to run this research or experiment method including:
-* Time commitment to run the method
-* How to run the method
-* Interpreting Results in a meaningful way
-* Common biases or pitfalls that may distort the results of the method and lead to bad conclusions based on incorrect data.
-* Field Tips from startup practitioners who have used this method.
-
-## Case Studies
+Tags
+A list of terms that can also be used to navigate through the book such as B2B (for methods
+commonly used for Business-to-Business models) and qualitative (for the type of data used
+by this method.
+Description
+A more detailed description of the steps normally taken to run this research or experiment
+method including:
+● Time commitment to run the method
+● How to run the method
+● Interpreting Results in a meaningful way
+● Common biases or pitfalls that may distort the results of the method and lead to bad
+conclusions based on incorrect data.
+● Field Tips from startup practitioners who have used this method.
+Case Studies
 Links to various case studies that might serve as examples.
-
-## References
+References
 A list of additional material or resources for those who want additional reading.
-
-# Contributors
-* Andy Cars, Linkedin , Lean Ventures
-* Austin Elford, Linkedin , Twitter
-* Casey Sakima, Portfolio , Linkedin
-* Dharanidhar Malladi, Linkedin
-* Gian Tapinassi, ArtDigiland , Linkedin
-* Gillian Julius Linkedin
-* Hameed Haqparwar, Linkedin , @haqparwar
-* Jan Kennedy, Academy for Corporate Entrepreneurship , @innovationmojo
-* Jorge Castellote, Linkedin , Twitter
-* Lino Jimenez, Linkedin
-* Luke Szyrmer, LaunchTomorrow , @launchtomorrow
-* Luuk Van Hees, Linkedin , Tippiq Labs
-* Jason Koprowski, Effortless Growth , Linkedin
-* Kenny Nguyen, TriKro LLC , Linkedin
-* Nadya Paleyes, Linkedin , Red Button
-* Phyo Pine, LinkedIn
-* Rammohan Reddy, LeanMantra , Linkedin
-* Sean K. Murphy, Linkedin , SKMurphy
-* Thierry Dagaeff, Linkedin
-* Tristan Kromer, TriKro LLC , Blog
-
-# Update History
-* Version 0.3 - Updated book’s formatting, added Customer Discovery Interviews and merged with Customer Discovery , added Secondary Market Research, added Concierge Test , added Net Promoter Score , added Appendices and Biases
-* Version 0.2 - Updated Generative vs Evaluative (1.3), added Generative Market Research sections 1-3, added Evaluative Market Experiments sections 1-4, added Generative Product Research sections 1-3, added Evaluative Product Experiments sections 1-2, added Out of the Box sections 1-2
-* Version 0.1 - Added Preface sections 1-3, added The Index sections 1-6
-
-# The Index
-> “An index is a great leveler”
-> – George Bernard Shaw
-
-
-# What Are You Trying to Learn?
-> “If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.” - Albert Einstein
-
-
-In school, we’re constantly taking tests to gauge how well we’ve learned last week’s material. We cram geographic boundaries, the dates of battles, and multiplication tables into our heads and spit out the results.
-
-
-Sadly, those rote memorization skills and the ability to answer pre-formulated questions doesn’t help us when we embark on entrepreneurship. When building a new business model, there is no test or quiz which we can cram for. It’s as if we sat down for our final and open up the exam book only to find a blank piece of paper in front of us.
-
-
+Contributors
+● Andy Cars, Linkedin , Lean Ventures
+● Austin Elford, Linkedin , Twitter
+● Casey Sakima, Portfolio , Linkedin
+● Dharanidhar Malladi, Linkedin
+● Gian Tapinassi, ArtDigiland , Linkedin
+● Gillian Julius Linkedin
+● Hameed Haqparwar, Linkedin , @haqparwar
+● Jan Kennedy, Academy for Corporate Entrepreneurship , @innovationmojo
+● Jorge Castellote, Linkedin , Twitter
+● Lino Jimenez, Linkedin
+● Luke Szyrmer, LaunchTomorrow , @launchtomorrow
+● Luuk Van Hees, Linkedin , Tippiq Labs
+● Jason Koprowski, Effortless Growth , Linkedin
+● Kenny Nguyen, TriKro LLC , Linkedin
+● Nadya Paleyes, Linkedin , Red Button
+● Phyo Pine, LinkedIn
+● Rammohan Reddy, LeanMantra , Linkedin
+● Sean K. Murphy, Linkedin , SKMurphy
+● Thierry Dagaeff, Linkedin
+● Tristan Kromer, TriKro LLC , Blog
+Update History
+● Version 0.3 - Updated book’s formatting, added Customer Discovery Interviews and
+merged with Customer Discovery , added Secondary Market Research, added
+Concierge Test , added Net Promoter Score , added Appendices and Biases
+● Version 0.2 - Updated Generative vs Evaluative (1.3), added Generative Market
+Research sections 1-3, added Evaluative Market Experiments sections 1-4, added
+Generative Product Research sections 1-3, added Evaluative Product Experiments
+sections 1-2, added Out of the Box sections 1-2
+● Version 0.1 - Added Preface sections 1-3, added The Index sections 1-6
+The Index
+“An index is a great leveler”
+– George Bernard Shaw
+What Are You Trying to
+Learn?
+“If I had an hour to solve a problem I'd spend 55 minutes thinking about the problem and 5
+minutes thinking about solutions.” - Albert Einstein
+In school, we’re constantly taking tests to gauge how well we’ve learned last week’s
+material. We cram geographic boundaries, the dates of battles, and multiplication tables into
+our heads and spit out the results.
+Sadly, those rote memorization skills and the ability to answer pre-formulated questions
+doesn’t help us when we embark on entrepreneurship. When building a new business model,
+there is no test or quiz which we can cram for. It’s as if we sat down for our final and open up
+the exam book only to find a blank piece of paper in front of us.
 “Where is the test?” we ask.
-
-
 “Right there in front of you,” answers our teacher.
-
-
 “Is there a right answer?” we hesitantly inquire.
-
-
 “Yes there is,” assures our teacher.
-
-
 “What are the questions?” we plead.
-
-
 “That’s what you have to figure out.”
-
-
-As an entrepreneur (or intrapreneur) we can’t just guess at the answers without first identifying the right questions to ask. If we just guess by building a fully functioning product, it’s very likely that the market will judge us wrong and punish us with zero sales and bankruptcy.
-
-
-Our job, as an entrepreneur, is to first ask the right questions and only then to find the right answers.
-
-## What is the Right Question?
+As an entrepreneur (or intrapreneur) we can’t just guess at the answers without first
+identifying the right questions to ask. If we just guess by building a fully functioning product,
+it’s very likely that the market will judge us wrong and punish us with zero sales and
+bankruptcy.
+Our job, as an entrepreneur, is to first ask the right questions and only then to find the right
+answers.
+What is the Right Question?
 The questions we must answer are fundamental holes in our business model. Questions like:
-* Who is our customer?
-* What job do they want done?
-* What channels can we use to reach them?
-* Which features should we build for our first product?
-* Is our solution good enough?
-
-If we can identify the right question, there is a corresponding method or methods listed in this book to help answer that question. Depending on the resources and time constraints, one of the methods may be simpler to execute.
-
-
-If we attempt to execute a method in this book without first identifying the right question to ask, the results of that experiment are typically very difficult if not impossible to interpret correctly.
-
-
-For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up a landing page test (a type of smoke test) with our value prop and a “buy now” button. Then we put $1000 in to Google Adwords for “shoes” to drive traffic and sit back to wait for the money to start rolling in…
-
-
+● Who is our customer?
+● What job do they want done?
+● What channels can we use to reach them?
+● Which features should we build for our first product?
+● Is our solution good enough?
+If we can identify the right question, there is a corresponding method or methods listed in
+this book to help answer that question. Depending on the resources and time constraints,
+one of the methods may be simpler to execute.
+If we attempt to execute a method in this book without first identifying the right question to
+ask, the results of that experiment are typically very difficult if not impossible to interpret
+correctly.
+For example, let’s say we’re selling a new type of shoe that cures plantar fasciitis. We put up
+a landing page test (a type of smoke test) with our value prop and a “buy now” button. Then
+we put $1000 in to Google Adwords for “shoes” to drive traffic and sit back to wait for the
+money to start rolling in…
 …and our conversion rate is 0%
-
-
-Should we give up? That’s what the landing page test says. There is insufficient demand for this product. But what is plantar fasciitis?
-
-
+Should we give up? That’s what the landing page test says. There is insufficient demand for
+this product. But what is plantar fasciitis?
 Exactly. All those people coming to our site are asking the same thing.
-Is our test failing because customers aren’t interested? Or do they fail because they simply can’t understand the value proposition? Or are we just focused on the wrong channel?
-
-
-In this case, we were asking “Does anyone want my product?” when we should be asking “Does our customer understand what plantar fasciitis is?” or even “Who is our customer?”
-
-## Focusing The Question
+Is our test failing because customers aren’t interested? Or do they fail because they simply
+can’t understand the value proposition? Or are we just focused on the wrong channel?
+In this case, we were asking “Does anyone want my product?” when we should be asking
+“Does our customer understand what plantar fasciitis is?” or even “Who is our customer?”
+Focusing The Question
 To simplify our search for the right method, we’ll ask two questions:
 1. Do we need to learn about the market or the product ?
-1. Do we have a clear hypothesis to evaluate or do we need to generate a clear idea?
+2. Do we have a clear hypothesis to evaluate or do we need to generate a clear idea?
 Mapping the intersection of these two questions gives us a 2x2 matrix:
-
-
-Based on this, if we have a clear hypothesis of who our customer is and what we think they will pay for, we can conduct an Evaluative Market Experiment such as a smoke test .
-
-
-If we don’t have a clear idea of who our customer is, we can do Generative Market Research like data mining.
-
-
-Similarly, if we have a clear hypothesis of which features will solve the customer’s problems, we can do an Evaluative Product Experiment such as Wizard of Oz testing. If we do not know which features will lead to an acceptable solution, we can do Generative Product
+Based on this, if we have a clear hypothesis of who our customer is and what we think they
+will pay for, we can conduct an Evaluative Market Experiment such as a smoke test .
+If we don’t have a clear idea of who our customer is, we can do Generative Market Research
+like data mining.
+Similarly, if we have a clear hypothesis of which features will solve the customer’s problems,
+we can do an Evaluative Product Experiment such as Wizard of Oz testing. If we do not
+know which features will lead to an acceptable solution, we can do Generative Product
 Research such as a Concierge Product to try and come up with new ideas.
-
-
-Any framework is an oversimplification of reality! This Index is a quick way to navigate to the correct method, but doesn’t mean you don’t need to think.
-
-
-The Index of Questions and the Index of Methods show the complete list of questions and their corresponding methods. But first we’ll look at the details of Market vs. Product and Generative vs. Evaluative.
-
-# Market vs. Product
+Any framework is an oversimplification of reality! This Index is a quick way to navigate
+to the correct method, but doesn’t mean you don’t need to think.
+The Index of Questions and the Index of Methods show the complete list of questions and
+their corresponding methods. But first we’ll look at the details of Market vs. Product and
+Generative vs. Evaluative.
+Market vs. Product
 Do we need to learn about the market or the product ?
-
-To narrow down the large list of methods to something actionable, we can first separate our questions into those about the market and those about the product.
-## Market
-* Who is our customer?
-* What are their pains?
-* What job needs to be done?
-* How are they doing this job today?
-* Does the customer segment already have a solution to this pain?
-* Is this customer segment really willing to pay for a better solution for this job?
-* Is our customer segment too broad?
-* How do we find them?
-* How much will this customer segment pay?
-* How do we convince this customer segment to buy?
-* What is the cost to acquire a customer in this customer segment?
-## Product
-* How can we solve this problem?
-* What form should this take?
-* How important is the design?
-* What’s the quickest solution?
-* What is the minimum feature set?
-* How should we prioritize?
-* Is this solution working?
-* Are people using it?
-* Which solution is better?
-* How should we optimize this?
-* What do people like / dislike?
-* Why do they do that?
-* Why do prospects buy from us?
-* Why do prospects not buy from us?
-
-In this case, “market” refers to any element mostly or completely on the identity of the Customer segment.
-This is a necessary oversimplification that makes it easy to find the right method.
-
-
-For example, market questions include those about which Channels we can use to reach the Customers.
-We cannot use traditional broadcast television advertising to target customers who don’t have a television set.
-
-
-“Product” (or service) is simplified to mean anything regarding the Value Proposition or the production of it. This includes Resources needed to produce the Value Proposition, as well as any Key Activities, Partners, or Costs.
-
-
-The Value Proposition really sits at the intersection of the Market needs and the Product itself.
-The Product has no value outside of the customer using it, but in this case, we are again simplifying for navigation.
-
-
-If using the Business Model Canvas, “market” questions are those on the right side of the canvas including: Customer, Channel, Relationship, & Revenue. “product” questions are those about the Value Proposition and everything left of it including:
-Key Activities, Key Resources, Key Partners, & Costs.
-
-## Where Should We Start?
-This book is agnostic about where we start. We may already have a product and are investigating who to sell it to or we may have a customer segment with a strong pain point and be trying to find a solution. However, when in doubt, start with the customer.
-
-
-If the customer segment changes, then the Product usually must be adapted to the Customer.
-However, if the product changes, Customers may simply use a different product.
+To narrow down the large list of methods to something actionable, we can first separate our
+questions into those about the market and those about the product.
+Market
+● Who is our customer?
+● What are their pains?
+● What job needs to be done?
+● How are they doing this job today?
+● Does the customer segment already have a solution to this pain?
+● Is this customer segment really willing to pay for a better solution for this job?
+● Is our customer segment too broad?
+● How do we find them?
+● How much will this customer segment pay?
+● How do we convince this customer segment to buy?
+● What is the cost to acquire a customer in this customer segment?
+Product
+● How can we solve this problem?
+● What form should this take?
+● How important is the design?
+● What’s the quickest solution?
+● What is the minimum feature set?
+● How should we prioritize?
+● Is this solution working?
+● Are people using it?
+● Which solution is better?
+● How should we optimize this?
+● What do people like / dislike?
+● Why do they do that?
+● Why do prospects buy from us?
+● Why do prospects not buy from us?
+In this case, “market” refers to any element mostly or completely on the identity of the
+Customer segment. This is a necessary oversimplification that makes it easy to find the right
+method.
+For example, market questions include those about which Channels we can use to reach the
+Customers. We cannot use traditional broadcast television advertising to target customers
+who don’t have a television set.
+“Product” (or service) is simplified to mean anything regarding the Value Proposition or the
+production of it. This includes Resources needed to produce the Value Proposition, as well
+as any Key Activities, Partners, or Costs.
+The Value Proposition really sits at the intersection of the Market needs and the Product
+itself. The Product has no value outside of the customer using it, but in this case, we are
+again simplifying for navigation.
+If using the Business Model Canvas, “market” questions are those on the right side of
+the canvas including: Customer, Channel, Relationship, & Revenue. “product”
+questions are those about the Value Proposition and everything left of it including: Key
+Activities, Key Resources, Key Partners, & Costs.
+Where Should We Start?
+This book is agnostic about where we start. We may already have a product and are
+investigating who to sell it to or we may have a customer segment with a strong pain point
+and be trying to find a solution. However, when in doubt, start with the customer.
+If the customer segment changes, then the Product usually must be adapted to the
+Customer. However, if the product changes, Customers may simply use a different product.
 Human behavior is notoriously difficult to change although it is not impossible.
-
-
-# Generative vs. Evaluative
-Do we have a clear hypothesis to evaluate or do we need to generate a clear idea? 
-This distinction depends on our ability to understand what makes a clear hypothesis.
-> “Our customers really want our product.”
-This hypothesis is clearly bad for a number of reasons.
-The most obvious is that it’s tautologically correct and not worth investigating. If they are our customers, then technically they have already purchased our product and that is a good sign they actually want it.
-
-
+Generative vs. Evaluative
+Do we have a clear hypothesis to evaluate or do we need to generate a clear idea? This
+distinction depends on our ability to understand what makes a clear hypothesis.
+“Our customers really want our product.”
+This hypothesis is clearly bad for a number of reasons. The most obvious is that it’s
+tautologically correct and not worth investigating. If they are our customers, then technically
+they have already purchased our product and that is a good sign they actually want it.
 It is roughly equivalent to, “If the piece of paper is flammable, it will burn when ignited.”
-
-
 Yet these types of flawed hypotheses are common. Here is a slightly more subtle example:
-
-> “If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would do so.”
-
-While not as flawed as the first example, it has fundamental problems that would prevent us from designing a good experiment.
-If we force an experiment, we will most likely have ambiguous data or be unable to interpret it correctly.
-
-
+“If 250 Los Angeles teachers were asked to treat minority students with more respect,
+then at least 50 teachers would do so.”
+While not as flawed as the first example, it has fundamental problems that would prevent us
+from designing a good experiment. If we force an experiment, we will most likely have
+ambiguous data or be unable to interpret it correctly.
 In this case, several things are unclear:
-* Which teachers? Teachers at schools with a number of minority students? How many minority students are sufficient for this test?
-* How should we ask the teachers? Will we ask each teacher differently? Will we let the principals ask them?
-* What is respect in this context? What behaviors would indicate “more respect”?
-
-Without defining the hypothesis very clearly, we might let the principals of schools ask the teachers on our behalf and they might ask them with varying degrees of persuasiveness.
-
-
-We might also argue about the results. Is calling a student “Mr.” instead of their first name a sign or respect or a sign of sarcasm?
-
-
-When we do not have a clear, well defined, and falsifiable hypothesis we are best served by doing generative research instead of an experiment. In this case, our learning goal could be
+● Which teachers? Teachers at schools with a number of minority students? How many
+minority students are sufficient for this test?
+● How should we ask the teachers? Will we ask each teacher differently? Will we let the
+principals ask them?
+● What is respect in this context? What behaviors would indicate “more respect”?
+Without defining the hypothesis very clearly, we might let the principals of schools ask the
+teachers on our behalf and they might ask them with varying degrees of persuasiveness.
+We might also argue about the results. Is calling a student “Mr.” instead of their first name a
+sign or respect or a sign of sarcasm?
+When we do not have a clear, well defined, and falsifiable hypothesis we are best served by
+doing generative research instead of an experiment. In this case, our learning goal could be
 “What teacher behaviors indicate teacher respect to minority students?”
-
-
-Given this goal, we are better off doing customer discovery interviews (a.k.a. speaking to the students) rather that testing our vague hypothesis.
-
-
-The outcome of the generative research should be a clear, well defined, and falsifiable hypothesis that we can then go and test with an Evaluative Experiment.
-
-
-Defining good hypotheses can be a challenge, so here are some things to look for and a short checklist.
-## Simple and Unambiguous
-The hypothesis should be clear and unambiguous so that anyone reading it will understand the context and be able to clearly interpret the results.
-> “If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would do so.”
-In this case, we may have different opinions as to what “respect” means.
-In order for us to agree that someone is being treated with “more respect,” we must agree on what behaviors would indicate respect.
-> “If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would refer to their students using an honorific.”
-While this is more specific, not everyone knows what an honorific is, so we should avoid using any specialized vocabulary or jargon.
-> “If 250 Los Angeles teachers were asked to treat minority students with more respect, then at least 50 teachers would call their students using ‘Mr./Ms.’ and their last name instead of their first name.”
-# Measurable
-> “Our customers have a strong desire to donate to charitable causes.”
+Given this goal, we are better off doing customer discovery interviews (a.k.a. speaking to the
+students) rather that testing our vague hypothesis. The outcome of the generative research
+should be a clear, well defined, and falsifiable hypothesis that we can then go and test with
+an Evaluative Experiment.
+Defining good hypotheses can be a challenge, so here are some things to look for and a
+short checklist.
+Simple and Unambiguous
+The hypothesis should be clear and unambiguous so that anyone reading it will understand
+the context and be able to clearly interpret the results.
+“If 250 Los Angeles teachers were asked to treat minority students with more respect,
+then at least 50 teachers would do so.”
+In this case, we may have different opinions as to what “respect” means. In order for us to
+agree that someone is being treated with “more respect,” we must agree on what behaviors
+would indicate respect.
+“If 250 Los Angeles teachers were asked to treat minority students with more respect,
+then at least 50 teachers would refer to their students using an honorific.”
+While this is more specific, not everyone knows what an honorific is, so we should avoid
+using any specialized vocabulary or jargon.
+“If 250 Los Angeles teachers were asked to treat minority students with more respect,
+then at least 50 teachers would call their students using ‘Mr./Ms.’ and their last name
+instead of their first name.”
+Measurable
+“Our customers have a strong desire to donate to charitable causes.”
 This hypothesis may be true, but it is not observable. At least not until we invent telepathy.
-> “Our customers donate to charitable causes twice per year.”
+“Our customers donate to charitable causes twice per year.”
 This new hypothesis has some other issues, but it is at least something observable.
-
-## Describes a Relationship
-> “50% of students at Dalton High School get a C or lower in at least one class per year.”
-This again may be true and it is observable, but it doesn’t tell us anything about the cause of the low grades. A good hypothesis should allow us to change one thing and observe the effect in another.
-
-> “Students at Dalton High School that study less than four hours a week get a C or lower in at least one class per year.”
-There are still more issues, but the hypothesis must relate two or more variables to each other.
-
-## Cause and Effect
-> “During the summer, ice cream consumption increases and more people drown per day.”
-
+Describes a Relationship
+“50% of students at Dalton High School get a C or lower in at least one class per
+year.”
+This again may be true and it is observable, but it doesn’t tell us anything about the cause of
+the low grades. A good hypothesis should allow us to change one thing and observe the
+effect in another.
+“Students at Dalton High School that study less than four hours a week get a C or
+lower in at least one class per year.”
+There are still more issues, but the hypothesis must relate two or more variables to each
+other.
+Cause and Effect
+“During the summer, ice cream consumption increases and more people drown per
+day.”
 This is a true statement, but does not tell us how those two variables relate to one another.
-Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about all the drownings?
-
-> “During the summer, people who eat ice cream will drown at a higher rate than people who do not eat ice cream.”
-This specifies a clear relationship and the causal direction of that relationship. Simply using an IF _______, THEN _______ sentence structure can help make sure cause and effect are apparent.
-
-> “If we feed ice cream to people, then the average # of drownings per day will increase.”
-
-## Achievable
-> “If an astronaut in a stable orbit around a black hole extends one foot past the event horizon of a black hole, then they will be pulled in entirely.”
-There are many theoretical physicist who create a number of hypotheses which are not testable now, but may be testable at some point in the future. While this black hole/astronaut hypothesis is theoretically testable, it is not testable today.
-
-
-Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested within the immediate future or within our current resources.
-
-
-[warning call out: Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step.]
-
-## Falsifiable
-All of these conditions add up to a hypothesis being falsifiable.
-If a hypothesis cannot be proven incorrect, then it is not relevant to run a test on it.
-> “There is an invisible, intangible tea cup floating between the Earth and Mars.”
-When it doubt, we can ask ourselves, “What evidence would prove this hypothesis incorrect?”
-
-
-If there is no amount of evidence that would prove our hypothesis is invalid, then either the hypothesis is flawed or we are very stubborn.
-
-## Other Frameworks
-There are a number of frameworks and checklists for forming hypothesis, one of which is popular enough to comment on to avoid confusion:
-> We believe <this capability> will result in <this outcome> and we will know we have succeeded when <we see a measurable signal>
+Are people drowning because they ate too much ice cream? Or are they eating more ice
+cream because they are sad about all the drownings?
+“During the summer, people who eat ice cream will drown at a higher rate than people
+who do not eat ice cream.”
+This specifies a clear relationship and the causal direction of that relationship. Simply using
+an IF _______, THEN _______ sentence structure can help make sure cause and effect are
+apparent.
+“If we feed ice cream to people, then the average # of drownings per day will
+increase.”
+Achievable
+“If an astronaut in a stable orbit around a black hole extends one foot past the event
+horizon of a black hole, then they will be pulled in entirely.”
+There are many theoretical physicist who create a number of hypotheses which are not
+testable now, but may be testable at some point in the future. While this black hole/astronaut
+hypothesis is theoretically testable, it is not testable today.
+Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be
+tested within the immediate future or within our current resources.
+[warning call out: Many things seem untestable today but clever application of lean thinking
+can simplify the hypothesis into a testable first step.]
+Falsifiable
+All of these conditions add up to a hypothesis being falsifiable . If a hypothesis cannot be
+proven incorrect, then it is not relevant to run a test on it.
+“There is an invisible, intangible tea cup floating between the Earth and Mars.”
+When it doubt, we can ask ourselves, “What evidence would prove this hypothesis
+incorrect?”
+If there is no amount of evidence that would prove our hypothesis is invalid, then either the
+hypothesis is flawed or we are very stubborn.
+Other Frameworks
+There are a number of frameworks and checklists for forming hypothesis, one of which is
+popular enough to comment on to avoid confusion:
+We believe <this capability> will result in <this outcome> and we will know we have
+succeeded when <we see a measurable signal>
 The entire sentence is not the hypothesis. Let’s break this into it’s parts:
-
-> We believe...
-That section just confirms we think the hypothesis is correct . It is not part of the hypothesis and there are many situations where we may test a hypothesis that we believe is incorrect .
-
-> ... <this capability> will result in <this outcome> ...
-
+We believe...
+That section just confirms we think the hypothesis is correct . It is not part of the hypothesis
+and there are many situations where we may test a hypothesis that we believe is incorrect .
+... <this capability> will result in <this outcome> ...
 That is the hypothesis.
-
-> ...we will know we have succeeded when <we see a measurable signal>
-
-That is the data we will collect including any information about sample size, margin of error, success conditions, or fail criteria.
-
-# Hypothesis Checklist
-* Is it simple and unambiguous?
-* Is it measurable?
-* Does it describe a relationship between two things?
-* Is the cause and effect relationship clear?
-* Is it achievable?
-* Can there any evidence that would convince us the hypothesis is invalid ?
-
-# Index of Questions
-| | Market | Product
-| Generative | Who is our customer?
+...we will know we have succeeded when <we see a measurable signal>
+That is the data we will collect including any information about sample size, margin of error,
+success conditions, or fail criteria.
+Hypothesis Checklist
+❏ Is it simple and unambiguous?
+❏ Is it measurable?
+❏ Does it describe a relationship between two things?
+❏ Is the cause and effect relationship clear?
+❏ Is it achievable?
+❏ Can there any evidence that would convince us the hypothesis is invalid ?
+Index of Questions
+Market Product
+Generative
+Who is our customer?
 What are their pains?
 What job needs to be done?
 Is our customer segment too
