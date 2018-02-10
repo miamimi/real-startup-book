@@ -366,105 +366,136 @@ Update History
 この新しい仮説も多少問題があるものの観察は可能です。
 
 関係を説明している
+ダルトンハイスクールではCまたはそれより低い成績を取る生徒が50%一年一クラスに少なくともひとり存在する。
+この例も正しいかもしれませんし、観察することもできます。
+低い点数の原因について説明していません。よい仮説は何かを変えれば別の結果として観察をすることができます。
 
-ダルトンハイスクールの50%の生徒は C またはそれより低い成績を取る生徒が一年に一クラス存在する。
+ダルトンハイスクールのなかで一週間で4週間未満勉強する生徒でCまたはそれより低い成績を取る生徒が一年一クラスに少なくともひとり存在する。
 
-これも正しいかもしれませんし、観測可能かもしれません。
-しかし、低い成績の原因については明らかではありません。
-よい仮説は何かを変えればその効果が観察できます。
+原因と結果
+夏にアイスクリームの売上が増え、一日当たりに溺れる人も増える
 
-“Students at Dalton High School that study less than four hours a week get a C or lower in at least one class per year.”
-There are still more issues, but the hypothesis must relate two or more variables to each other.
-Cause and Effect
-“During the summer, ice cream consumption increases and more people drown per
-day.”
+この例も正しいかもしれませんが、二つの変数の因果関係が説明されていません。
+アイスクリームを食べすぎて溺れるのでしょうか？それとも、溺れている人が多いのを悲しんでアイスクリームを食べる人が増えるのでしょうか？
 
-This is a true statement, but does not tell us how those two variables relate to one another. Are people drowning because they ate too much ice cream? Or are they eating more ice cream because they are sad about all the drownings?
+夏にはアイスクリームを食べる人は食べない人と比べて溺れる確率が高い
 
-“During the summer, people who eat ice cream will drown at a higher rate than people who do not eat ice cream.”
+この例では原因と結果の関係が明確になっています。
+さらに「もし、れば」を使うとさらに明確になります。
 
-This specifies a clear relationship and the causal direction of that relationship. Simply using an IF 	, THEN	sentence structure can help make sure cause and effect are apparent.
+もし人にアイスクリームをあたえれば、一日当たり溺れる人の平均数は増える
 
-“If we feed ice cream to people, then the average # of drownings per day will increase.”
-Achievable
-“If an astronaut in a stable orbit around a black hole extends one foot past the event horizon of a black hole, then they will be pulled in entirely.”
-There are many theoretical physicist who create  a  number  of  hypotheses  which  are  not testable now, but may be testable at some point in the future. While this black hole/astronaut hypothesis is theoretically testable, it is not testable today.
-Unfortunately, as entrepreneurs, we should restrict our hypotheses to ones that can be tested within the immediate future or within our current resources.
-[warning call out: Many things seem untestable today but clever application of lean thinking can simplify the hypothesis into a testable first step.]
+実現性
+ブラックホールの安定軌道上の宇宙飛行士がブラックホールの事象の地平面に足を延ばせば体全体を引っ張られるでしょう
+
+多くの理論物理学者が現時点では検証できない仮説を作ります。
+しかし、将来的には検証ができるようになるかもしれません。
+この宇宙飛行士とブラックホールの仮説は理論的に検証することができるかもしれませんが、実際にテストすることはできません。
+残念ながら起業家は現在のリソースと時間で実現できるテストに集中すべきです。
+
+[注意：多くのことはテストできないように感じられるかもしれませんが、リーンスタートアップを賢く使えばテストができるまで簡単なものに絞り込むことができることを忘れないように！]
  
-Falsifiable
-All of these conditions add up to a hypothesis being falsifiable. If a hypothesis cannot be proven incorrect, then it is not relevant to run a test on it.
-“There is an invisible, intangible tea cup floating between the Earth and Mars.”
-When it doubt, we can ask ourselves, “What evidence would prove this hypothesis incorrect?”
-If there is no amount of evidence that would prove our hypothesis is invalid, then either the hypothesis is flawed or we are very stubborn.
-Other Frameworks
-There are a number of frameworks and checklists for forming hypothesis, one of which is popular enough to comment on to avoid confusion:
-We believe <this capability> will result in <this outcome> and we will know we have succeeded when <we see a measurable signal>
-The entire sentence is not the hypothesis. Let’s break this into it’s parts:
-We believe...
-That section just confirms we think the hypothesis is correct. It is not part of the hypothesis and there are many situations where we may test a hypothesis that we believe is incorrect.
-...<this capability> will result in <this outcome>...
-That is the hypothesis.
-...we will know we have succeeded when <we see a measurable signal>
-That is the data we will collect including any information about sample size, margin of error, success conditions, or fail criteria.
+検証可能
+これまで解説してきたポイントをおさえれば検証可能な仮説になります。
+反証ができずに仮説が正しいだけでなく間違っていたことも証明できなければテストする意味はありません。
+
+地球と火星の間に透明なティーカップが浮かんでいる
+
+自信がない場合は「どのような証拠で仮説は間違いだと証明されるだろう」と自問をしてみることです。
+
+もし仮説が否定されたという十分な証拠がない場合、仮説が間違っているか自分たちがとっても頑固なのかのどちらかでしょう。
+
+そのほかのフレームワーク
+仮説をチェックするフレームワークはこれ以外にもたくさんあります。
+そのうちの一つはとても有名なので混乱を避けるためにも紹介しましょう。
+私たちは＜機能＞は＜結果＞を生むと信じます。私たちは＜測定可能なシグナル＞により、それが成功したとわかります。
+この文章全体は仮設ではありません。
+部品に分解してどれが仮説なのかを見ましょう。
+
+私たちは...と信じます。
+
+この部分は仮説が正しいと思ってると宣言しているだけです。この部分は仮設ではありません。仮説が正しくないと信じるときもあります。
+
+＜機能＞は＜結果＞を生む
+
+これが仮説です。
+私たちは＜測定可能なシグナル＞により、それが成功したとわかります。
+これは私たちが集めなければいけないデータです。それはサンプルサイズやえらーち、成功の条件と失敗のクライテリアを含みます。
+
+仮説チェックリスト
+- シンプルで明快ですか？
+- 測定できますか？
+- 二つの関係を説明していますか？
+- 因果関係は明確ですか？
+- 実現できますか？
+- 反証できますか？（仮説を否定できますか？）
  
-Hypothesis Checklist
-❑	Is it simple and unambiguous?
-❑	Is it measurable?
-❑	Does it describe a relationship between two things?
-❑	Is the cause and effect relationship clear?
-❑	Is it achievable?
-❑	Can there any evidence that would convince us the hypothesis is invalid?
- 
-Index of Questions
+質問のインデックス
+マーケット
+プロダクト
+生成的
+顧客はだれ？
+顧客のペインポイントは？
+お客がやるべきことは？
+お客セグメントが広すぎる？
+顧客はどうしたら見つかる？
+どうしたらこの問題を解決できる？
+どのような形がいい？
+デザインはどれくらい重要？
+何が一番簡単なソリューション？
+何が最低限の機能？
+どうやって優先順位をつけたらいい？
+検証的
+顧客は喜んで払う？
+いくらなら払う？
+どうしたら買ってもらえる？
+売るためのコストはいくら？
+マーケティングをスケールできる？
+このソリューションはうまくいく？
+ユーザーは使ってる？
+どっちのソリューションがいい？
+どうやって最適化する？
+ユーザーは何が気に入ってる？
+なんでユーザーはそうするの？
 
-
-
-
-	Market	Product
-
-
-Generative	Who is our customer? What are their pains?
-What job needs to be done?
-
-Is our customer segment too broad?
-
-How do we find them?	How can we solve this problem? What form should this take?
-How important is the design? What’s the quickest solution? What is the minimum feature set? How should we prioritize?
-
-
-Evaluative	Are they really willing to pay? How much will they pay?
-How do we convince them to buy? How much will it cost to sell?
-Can we scale marketing?	Is this solution working? Are people using it?
-Which  solution  is  better? How should we optimize this? What do people like / dislike? Why do they do that?
- 
-Index of Methods
-
-
-
-	Market	Product
-
-
-Generative	Customer Discovery Interviews Contextual inquiry / ethnography Data mining
-Focus groups* Surveys* (open ended)	Solution interview
-
-Contextual inquiry / ethnography Demo pitch
-Concierge test / Consulting Competitor Usability
-Picnic in the Graveyard
-
-	5 second tests	Paper prototypes
-	Comprehension	Clickable prototypes
-	Conjoint Analysis	Usability
-	Data mining / market research	Hallway
-	Surveys* (closed)	Live
-
-Evaluative	Smoke tests
-(e.g. Video, Landing page, Sales pitch, Pre-sales, Flyers, Pocket test, Event, Fake door, High bar)	Remote Wizard of Oz
+手法のインデックス
+マーケット
+プロダクト
+生成的
+カスタマーディスカバリーインタビュー
+コンテキストインタビュー
+エスノグラフィー
+データマイニング
+フォーカスグループ *
+アンケート * (オープンエンド)
+ソリューションインタビュー
+コンテキストインタビュー / エスノグラフィー
+デモピッチ
+コンシェルジュテスト / コンサルティング
+競合のユーザビリティ
+墓場でピクニック
+検証的
+5秒テスト
+聞き取り
+コンジョイント分析
+データマイニング／マーケットリサーチ
+アンケート * (クローズド)
+スモークテスト
+(例：ビデオ、ランディングページ、セールスピッチ、プリセールス、チラシ、イベント、フェイクドア、ハイバー)	
+ペーパープロトタイプ
+クリックできるプロトタイプ
+Usability
+Hallway
+Live
+Remote
+Wizard of Oz
 Takeaway
-		Functioning products
-		Analytics / Dashboards
-		Surveys*
-(e.g. Net Promoter Score, Product/Market Fit Survey)
+Functioning products
+Analytics / Dashboards
+Surveys *
+(e.g. Net Promoter Score,
+Product/Market Fit Survey)
+
  
 Tags & Other Frameworks
 
@@ -491,14 +522,6 @@ For example, if the Customer is the biggest risk to our customer segment, then w
 This won’t differentiate between Generative Research and Evaluative Experiments, so you’ll still need to take that extra step.
  
 Generative	Market	Research
-
-
-
-
-
-
-
-
 
 “Advertisements may be evaluated scientifically; they cannot be created scientifically.”
 – Leo Bogart
